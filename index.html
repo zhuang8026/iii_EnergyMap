@@ -19,6 +19,9 @@
 
     svg {
       display: block;
+      position: fixed;
+      top: 0;
+      left: 0;
     }
 
     .county {
@@ -50,8 +53,9 @@
     }
     #countp {
       position: fixed;
-      top: 27px;
-      right: 270px;
+      bottom: 27px;
+      right: 187px;
+      z-index: 1;
       /* width: auto; */
       /* height: auto; */
       color: #ebeefa;
@@ -72,6 +76,14 @@
     #countp .title {
       font-size: 20px;
     }
+    #countp .countp_title {
+      font-size: 20px;
+      position: absolute;
+      top: -25px;
+    }
+    #countp .sep {
+      font-size: 30px;
+    }
   </style>
   <body>
     <div id="taiwan_map">
@@ -82,7 +94,7 @@
         <!-- <div class="content">61,987,654,321<span>/筆</span></div> -->
         <!-- <div class="title">總資料量</div> -->
         <div class="flipContainer">
-          <div class="flip">住宅資料庫數據總量</div>
+          <div class="countp_title">住宅資料庫數據總量/筆數</div>
 
           <ul class="flip billion">
             <li id="billion_0">
@@ -186,6 +198,8 @@
               </a>
             </li>
           </ul>
+
+          <div class="sep">,</div>
 
           <ul class="flip TTmillion">
             <li id="TTmillion_0">
@@ -496,6 +510,8 @@
             </li>
           </ul>
 
+          <div class="sep">,</div>
+
           <ul class="flip hThousandPlay">
             <li id="hThousandPlay_0">
               <a href="#">
@@ -804,6 +820,8 @@
               </a>
             </li>
           </ul>
+
+          <div class="sep">,</div>
 
           <ul class="flip hundredPlay">
             <li id="hundredPlay_0">
@@ -1114,7 +1132,7 @@
               </a>
             </li>
           </ul>
-          <div class="flip_count">/筆</div>
+          <!-- <div class="flip_count">/筆</div> -->
         </div>
       </div>
       <svg></svg>

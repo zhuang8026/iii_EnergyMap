@@ -18,20 +18,41 @@ svg
   .attr('stdDeviation', 3)
   .attr('flood-opacity', 0.4); // 設置透明度為0.5;
 
-// 加上畫布放大的功能
-// svg.call(
-//   d3.zoom().on('zoom', () => {
-//     g.attr('transform', d3.event.transform);
-//   })
-// );
+// // 加上畫布放大的功能
+svg.call(
+  d3.zoom().on('zoom', () => {
+    g.attr('transform', d3.event.transform);
+  })
+);
+
+let screenWidth =
+  window.innerWidth ||
+  document.documentElement.clientWidth ||
+  document.body.clientWidth;
+console.log('屏幕宽度：' + screenWidth);
+
+let svg_sreen = {
+  center: [121.5, 23.7],
+  scale: 12000,
+};
+
+if (screenWidth <= 1920 && screenWidth > 1600 ) {
+  svg_sreen['center'] = [121.2, 23.75];
+  svg_sreen['scale'] = 14500;
+}
+
+if (screenWidth <= 2560 && screenWidth > 1920 ) {
+  svg_sreen['center'] = [120.9, 23.75];
+  svg_sreen['scale'] = 22000;
+}
 
 // 120.979531, 23.978089
 var projectmethod = d3
   .geoMercator()
   // .center([121.5, 24.5])
   // .scale(25000)
-  .center([121.5, 23.7])
-  .scale(12000)
+  .center(svg_sreen.center)
+  .scale(svg_sreen.scale)
   .translate([svg.attr('width') / 2, svg.attr('height') / 2]);
 
 var pathGenerator = d3.geoPath().projection(projectmethod);
@@ -187,60 +208,60 @@ d3.json('./COUNTY_MOI_1090820.json').then((data) => {
 
     let svg_rx =
       city == '臺中市'
-        ? 350
+        ? 430
         : city == '花蓮縣'
-        ? 20
+        ? -40
         : city == '新竹縣'
         ? 310
         : city == '桃園市'
-        ? 310
+        ? 400
         : city == '臺北市'
-        ? 280
+        ? 400
         : city == '新北市'
-        ? 0
+        ? -30
         : 0;
     let svg_ry =
       city == '臺中市'
-        ? 50
+        ? 30
         : city == '花蓮縣'
-        ? 100
+        ? 50
         : city == '新竹縣'
         ? 60
         : city == '桃園市'
-        ? 50
+        ? 0
         : city == '臺北市'
-        ? 80
+        ? 50
         : city == '新北市'
-        ? 60
+        ? -10
         : 0;
 
     let svg_tx =
       city == '臺中市'
-        ? 235
+        ? 315
         : city == '花蓮縣'
-        ? -95
+        ? -155
         : city == '新竹縣'
         ? 195
         : city == '桃園市'
-        ? 195
+        ? 280
         : city == '臺北市'
-        ? 165
+        ? 280
         : city == '新北市'
-        ? -115
+        ? -145
         : 0;
     let svg_ty =
       city == '臺中市'
-        ? 15
+        ? -3
         : city == '花蓮縣'
-        ? 65
+        ? 15
         : city == '新竹縣'
         ? 25
         : city == '桃園市'
-        ? 15
+        ? -33
         : city == '臺北市'
-        ? 47
+        ? 15
         : city == '新北市'
-        ? 27
+        ? -43
         : 0;
 
     let people =
@@ -258,12 +279,8 @@ d3.json('./COUNTY_MOI_1090820.json').then((data) => {
         ? 387
         : 0;
 
-    // 色块的右下角箭头的尺寸
-    const arrowWidth = 15;
-    const arrowHeight = 15;
-
     // 在计算出的 SVG 座标位置放置色块和箭头
-    const blockGroup = svg
+    const blockGroup = g
       .append('g')
       .attr(
         'transform',
@@ -277,34 +294,53 @@ d3.json('./COUNTY_MOI_1090820.json').then((data) => {
       .append('rect')
       .attr('width', 230) // 色块宽度
       .attr('height', 60) // 色块高度
-      .style('fill', '#006284') // 色块填充颜色
+      .style('stroke', '#fff') // 设置边框颜色
+      .style('stroke-width', '5') // 设置边框宽度
+      .style('fill', 'rgba(255, 255, 255, 0.5)') // 去除填充颜色
+      // .style('fill-opacity', '0.5') // 设置背景透明度，值在0（完全透明）和1（完全不透明）之间
       .attr('rx', 5) // 指定水平方向的圆角半径
-      .attr('ry', 5); // 指定垂直方向的圆角半径
-    // .on('click', () => {
-    //   // 色块点击事件
-    //   alert('Block Clicked!');
-    // });
+      .attr('ry', 5) // 指定垂直方向的圆角半径
+      .on('click', () => console.log('click!'));
 
-    let points =
-      city == '花蓮縣' || city == '新北市'
-        ? `0,${60} ${arrowWidth},${60} 0,${60 - arrowHeight}`
-        : `${230 - arrowWidth},${60} ${230},${60} ${230},${60 - arrowHeight}`;
-
-    // 添加箭头
+    // 在右中部分添加一条线
     blockGroup
-      .append('polygon')
-      .attr('points', points)
-      .style('fill', '#CB4042'); // 箭头颜色
+      .append('line')
+      .attr('x1', city == '新北市' || city == '花蓮縣' ? 0 : 230) // 起始点 x 坐标
+      .attr('y1', city == '新北市' || city == '花蓮縣' ? 30 : 30) // 起始点 y 坐标
+      .attr('x2', city == '新北市' || city == '花蓮縣' ? -80 : 350) // 终点 x 坐标
+      .attr('y2', city == '新北市' || city == '花蓮縣' ? 30 : 30) // 终点 y 坐标
+      .style('stroke', '#fff') // 设置线的颜色
+      .style('stroke-width', '2'); // 设置线的宽度
+
+    // 在线的末端添加一个小球
+    blockGroup
+      .append('circle')
+      .attr('cx', city == '新北市' || city == '花蓮縣' ? -80 : 350) // 圆心 x 坐标（与线的终点 x 坐标一致）
+      .attr('cy', city == '新北市' || city == '花蓮縣' ? 30 : 30) // 圆心 y 坐标（与线的终点 y 坐标一致）
+      .attr('r', 5) // 圆的半径
+      .style('fill', '#fff'); // 设置小球的颜色
+
+    // // 添加箭头
+    // // 色块的右下角箭头的尺寸
+    // const arrowWidth = 15;
+    // const arrowHeight = 15;
+    // let points =
+    //   city == '花蓮縣' || city == '新北市'
+    //     ? `0,${60} ${arrowWidth},${60} 0,${60 - arrowHeight}`
+    //     : `${230 - arrowWidth},${60} ${230},${60} ${230},${60 - arrowHeight}`;
+    // blockGroup
+    //   .append('polygon')
+    //   .attr('points', points)
+    //   .style('fill', '#CB4042'); // 箭头颜色
 
     // 在矩形內新增文字
-    svg
-      .append('text')
+    g.append('text')
       .attr('x', adjacentBlockPosition[0] - svg_tx) // 調整 X 座標，使文字居中在矩形內
       .attr('y', adjacentBlockPosition[1] - svg_ty) // 調整 Y 座標，使文字居中在矩形內
-      .text(`${city == '桃園市' ? '桃竹苗' : city} ${people} 戶`)
+      .text(`${city == '桃園市' ? '桃竹' : city} ${people} 戶`)
       .attr('font-size', '30px') // 設置文字大小
       // .attr('font-weight', 'bold') // 設置文字大小
-      .attr('fill', 'white') // 設置文字顏色
+      .attr('fill', '#006284') // 設置文字顏色
       .attr('text-anchor', 'middle') // 文字錨點設在中央
       .attr('alignment-baseline', 'middle') // 對齊方式設置為中央
       .attr('cursor', 'pointer')
@@ -318,14 +354,4 @@ d3.json('./COUNTY_MOI_1090820.json').then((data) => {
   countp.addEventListener('click', () => {
     window.location.href = `./page/chart/index.html`;
   });
-  // 在計算出的SVG座標位置放置色塊
-  // svg
-  //   .append('rect')
-  //   .attr('x', adjacentBlockPosition[0] - svg_rx) // SVG X 座標
-  //   .attr('y', adjacentBlockPosition[1] - svg_ry) // SVG Y 座標
-  //   .attr('width', 230) // 色塊寬度
-  //   .attr('height', 60) // 色塊高度
-  //   .style('fill', '#006284') // 色塊填充顏色
-  //   .attr('rx', 5) // 指定水平方向的圆角半径
-  //   .attr('ry', 5); // 指定垂直方向的圆角半径
 });
