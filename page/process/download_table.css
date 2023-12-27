@@ -13,23 +13,23 @@
 }
 .download_table td:nth-child(1),
 .download_table th:nth-child(1) {
-  width: 200px;
+  width: 25vw !important;
 }
 .download_table td:nth-child(2),
 .download_table th:nth-child(2) {
-  width: 150px;
+  width: 20vw !important;
 }
 .download_table td:nth-child(3),
 .download_table th:nth-child(3) {
-  width: 200px;
+  width: 20vw !important;
 }
 .download_table td:nth-child(4),
 .download_table th:nth-child(4) {
-  width: 150px;
+  width: 20vw !important;
 }
 .download_table td:nth-child(5),
 .download_table th:nth-child(5) {
-  width: 400px;
+  width: 20vw !important;
 }
 
 .download_table thead {
@@ -45,7 +45,7 @@
   overflow: auto;
   width: 100%;
   min-height: 150px;
-  max-height: 250px;
+  max-height: 35vh;
 }
 .download_table tbody tr:nth-child(even) {
   background-color: #ddd;

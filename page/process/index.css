@@ -158,9 +158,11 @@ header img {
 }
 
 .tab-content {
-  width: 60%;
+  min-width: 60%;
+  max-width: 80%;
   margin: 0 auto;
   margin-top: 20px;
+  margin-bottom: 20px;
   padding: 20px;
   background-color: #fff;
   border: 1px solid #c2c2c2;
@@ -302,4 +304,14 @@ header img {
 
 .end {
   display: none;
+}
+
+@media screen and (max-width: 1600px) {
+  /* 在寬度小於600px時的樣式 */
+  .presentation {
+    width: 200px;
+    margin: 0 20px;
+    z-index: 3;
+    transition: 0.3s;
+}
 }

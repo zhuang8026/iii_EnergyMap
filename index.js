@@ -36,12 +36,12 @@ let svg_sreen = {
   scale: 12000,
 };
 
-if (screenWidth <= 1920 && screenWidth > 1600 ) {
+if (screenWidth <= 1920 && screenWidth > 1600) {
   svg_sreen['center'] = [121.2, 23.75];
   svg_sreen['scale'] = 14500;
 }
 
-if (screenWidth <= 2560 && screenWidth > 1920 ) {
+if (screenWidth <= 2560 && screenWidth > 1920) {
   svg_sreen['center'] = [120.9, 23.75];
   svg_sreen['scale'] = 22000;
 }
@@ -337,6 +337,15 @@ d3.json('./COUNTY_MOI_1090820.json').then((data) => {
     g.append('text')
       .attr('x', adjacentBlockPosition[0] - svg_tx) // 調整 X 座標，使文字居中在矩形內
       .attr('y', adjacentBlockPosition[1] - svg_ty) // 調整 Y 座標，使文字居中在矩形內
+
+      .text(`${city == '桃園市' ? '桃竹' : city} `) // 添加地区名部分
+
+      // 在地区名后添加放大的数字和“户”
+      // .append('tspan')
+      // .text(`${people} 戶`)
+      // .attr('font-size', '40px') // 设置放大后的文字大小
+      // .attr('fill', '#006284') // 设置放大后的文字颜色
+
       .text(`${city == '桃園市' ? '桃竹' : city} ${people} 戶`)
       .attr('font-size', '30px') // 設置文字大小
       // .attr('font-weight', 'bold') // 設置文字大小

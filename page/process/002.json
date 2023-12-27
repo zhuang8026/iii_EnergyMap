@@ -1,0 +1,4331 @@
+[
+  {
+    "user_id": "bill50814@gmail.com",
+    "system_key": "2023-07-23^^u0955318835@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0125, 0.0583, 0.4561, 0.0112, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "11520mo@gmail.com",
+    "system_key": "2023-07-23^^11520mo@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0495, 0.2263, 0.1198, 0.0508, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "15ling@gmail.com",
+    "system_key": "2023-07-23^^15ling@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.034926, 0.0, 0.515052, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "2008dig@gmail.com",
+    "system_key": "2023-07-23^^2008dig@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.052593, 0.228445, 0.017741, 0.001836",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "2innocent2@gmail.com",
+    "system_key": "2023-07-23^^2innocent2@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0208, 0.0643, 0.3684, 0.0206, 0.004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "331230@yahoo.com.tw",
+    "system_key": "2023-07-23^^331230@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0216, 0.0791, 0.4004, 0.0221, 0.0047",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "40212301a@gmail.com",
+    "system_key": "2023-07-23^^40212301a@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0207, 0.0723, 0.3819, 0.0213, 0.0047",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "4m810806@gmail.com",
+    "system_key": "2023-07-23^^4m810806@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0486, 0.1874, 0.1315, 0.0462, 0.0026",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "5914chou@gmail.com",
+    "system_key": "2023-07-23^^5914chou@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0197, 0.084, 0.3066, 0.0234, 0.0041",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "617liuyichi@gmail.com",
+    "system_key": "2023-07-23^^617liuyichi@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.089841, 0.0, 0.36519, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "641119607@qq.com",
+    "system_key": "2023-07-23^^641119607@qq.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0431, 0.2511, 0.1382, 0.0424, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "689458ea@gmail.com",
+    "system_key": "2023-07-23^^689458ea@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0449, 0.1586, 0.1885, 0.0423, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Alice7461@yahoo.com.tw",
+    "system_key": "2023-07-23^^Alice7461@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0286, 0.1119, 0.3763, 0.0288, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Asd@iii.org.tw",
+    "system_key": "2023-07-23^^Asd@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0156, 0.0762, 0.4553, 0.0147, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Brian00156@gmail.com",
+    "system_key": "2023-07-23^^Brian00156@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0085, 0.0411, 0.4583, 0.0069, 0.0002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Carol22408@yahoo.com.tw",
+    "system_key": "2023-07-23^^Carol22408@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.0763, 0.4601, 0.0162, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Charlene79@outlook.com",
+    "system_key": "2023-07-23^^Charlene79@outlook.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.022, 0.0822, 0.3539, 0.0236, 0.0061",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Chyanlanliu108@gmail.com",
+    "system_key": "2023-07-23^^Chyanlanliu108@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0215, 0.0832, 0.4095, 0.0214, 0.0013",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Dr.Tsao1964@gmail.com",
+    "system_key": "2023-07-23^^Dr.Tsao1964@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0183, 0.0723, 0.3978, 0.0179, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Jasont2046@gmail.com",
+    "system_key": "2023-07-23^^Jasont2046@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0386, 0.1582, 0.2863, 0.0354, 0.0078",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Joycecho0226@yahoo.com.tw",
+    "system_key": "2023-07-23^^Joycecho0226@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0325, 0.0902, 0.2984, 0.0374, 0.0105",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Justine6810@hotmail.com",
+    "system_key": "2023-07-23^^Justine6810@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0202, 0.0757, 0.4278, 0.0192, 0.0043",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Linisan13@gmail.com",
+    "system_key": "2023-07-23^^Linisan13@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0446, 0.2497, 0.132, 0.0437, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Lucy324@gmail.com",
+    "system_key": "2023-07-23^^Lucy324@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0337, 0.1385, 0.2926, 0.0405, 0.0072",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Monkey730205@gmail.com",
+    "system_key": "2023-07-23^^Monkey730205@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0321, 0.0988, 0.3128, 0.0372, 0.0101",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Nimofishwn@gmail.com",
+    "system_key": "2023-07-23^^Nimofishwn@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0488, 0.1688, 0.1424, 0.0544, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Novia49.kuo@gmail.com",
+    "system_key": "2023-07-23^^Novia49.kuo@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0208, 0.0801, 0.428, 0.0, 0.0029",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Olliechen420@gmail.com",
+    "system_key": "2023-07-23^^Olliechen420@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0226, 0.0861, 0.3336, 0.0263, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Philips72966@gmail.com",
+    "system_key": "2023-07-23^^Philips72966@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0433, 0.1463, 0.1701, 0.0479, 0.0046",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Qwe@iii.org.tw",
+    "system_key": "2023-07-23^^Qwe@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0166, 0.111, 0.6809, 0.0123, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Remixxsupreme@gmail.com",
+    "system_key": "2023-07-23^^Remixxsupreme@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0112, 0.0607, 0.4236, 0.0089, 0.0002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "U120056131@gmail.com",
+    "system_key": "2023-07-23^^U120056131@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0279, 0.1097, 0.4095, 0.0294, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Woody1050524@gmail.com",
+    "system_key": "2023-07-23^^Woody1050524@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0189, 0.0638, 0.421, 0.0173, 0.0041",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Ycc.win@gmail.com",
+    "system_key": "2023-07-23^^Ycc.win@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0277, 0.1066, 0.4179, 0.0265, 0.0056",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "Zxc@iii.org.tw",
+    "system_key": "2023-07-23^^Zxc@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0617, 0.2401, 0.1268, 0.0655, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a000000381@gmail.com",
+    "system_key": "2023-07-23^^a000000381@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0161, 0.0664, 0.4287, 0.0155, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0903144@gmail.com",
+    "system_key": "2023-07-23^^a0903144@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.0737, 0.458, 0.0151, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0910026691@yahoo.com.tw",
+    "system_key": "2023-07-23^^a0910026691@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.404366, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0912161018@gmail.com",
+    "system_key": "2023-07-23^^a0912161018@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0303, 0.1122, 0.2822, 0.0391, 0.0072",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0916028582@gmail.com",
+    "system_key": "2023-07-23^^a0916028582@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0554, 0.1949, 0.1132, 0.0594, 0.0031",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0916262735@gmail.com",
+    "system_key": "2023-07-23^^a0916262735@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0187, 0.0683, 0.411, 0.0179, 0.0031",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0916500274@gmail.com",
+    "system_key": "2023-07-23^^a0916500274@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0383, 0.2634, 0.1601, 0.038, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0918028808@gmail.com",
+    "system_key": "2023-07-23^^a0918028808@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.006983, 0.0, 0.476442, 0.0, 0.002734",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0919249679@gmail.com",
+    "system_key": "2023-07-23^^a0919249679@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0227, 0.0841, 0.4065, 0.0237, 0.0053",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0921773919@gmail.com",
+    "system_key": "2023-07-23^^a0921773919@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0375, 0.1576, 0.3133, 0.0336, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0926033688@gmail.com",
+    "system_key": "2023-07-23^^a0926033688@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.189938, 0.280321, 0.0, 0.023077",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0931111073@gmail.com",
+    "system_key": "2023-07-23^^a0931111073@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.001168, 0.057833, 0.702651, 0.0, 0.004158",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0931287449mjing@gmail.com",
+    "system_key": "2023-07-23^^a0931287449mjing@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.004625, 0.0, 0.223473, 0.0, 0.001811",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0937532070@gmail.com",
+    "system_key": "2023-07-23^^a0937532070@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0508, 0.1923, 0.1211, 0.0528, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0956063633@gmail.com",
+    "system_key": "2023-07-23^^a0956063633@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0299, 0.1117, 0.3004, 0.0375, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0978757599@gmail.com",
+    "system_key": "2023-07-23^^a0978757599@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0414, 0.1414, 0.2288, 0.0394, 0.0054",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0987298888@gmail.com",
+    "system_key": "2023-07-23^^a0987298888@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.023813, 0.0, 0.055303, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a0989003046@gmail.com",
+    "system_key": "2023-07-23^^a0989003046@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0262, 0.0995, 0.4041, 0.029, 0.0054",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a27185291@gmail.com",
+    "system_key": "2023-07-23^^a27185291@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.056629, 0.0, 0.014225, 0.001809",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a43952000@gmail.com",
+    "system_key": "2023-07-23^^a43952000@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.029968, 0.100489, 0.200716, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "a543385100@hotmail.com",
+    "system_key": "2023-07-23^^a543385100@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.062, 0.1987, 0.1397, 0.0702, 0.002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aa0910436118@gmail.com",
+    "system_key": "2023-07-23^^aa0910436118@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.045, 0.2248, 0.1418, 0.0498, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aa0938393996@gmail.com",
+    "system_key": "2023-07-23^^aa0938393996@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0278, 0.1098, 0.3497, 0.0322, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aa0939429791@gmail.com",
+    "system_key": "2023-07-23^^aa0939429791@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0359, 0.1514, 0.3114, 0.0364, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aa0970232652@gmail.com",
+    "system_key": "2023-07-23^^aa0970232652@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0239, 0.1027, 0.276, 0.0289, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aanngerlo@gmail.com",
+    "system_key": "2023-07-23^^aanngerlo@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0274, 0.1099, 0.2748, 0.0349, 0.0061",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aaron6668@gmail.com",
+    "system_key": "2023-07-23^^aaron6668@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.047, 0.2444, 0.1174, 0.0517, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "abettertaiwan@gmail.com",
+    "system_key": "2023-07-23^^abettertaiwan@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0482, 0.2342, 0.1211, 0.057, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "abongliu@gmail.com",
+    "system_key": "2023-07-23^^abongliu@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.254118, 0.450198, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "abst5123@gmail.com",
+    "system_key": "2023-07-23^^abst5123@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.019, 0.0701, 0.3719, 0.02, 0.0041",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ac923066@gmail.com",
+    "system_key": "2023-07-23^^ac923066@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.0659, 0.3639, 0.017, 0.0024",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "adimage.tw@gmail.com",
+    "system_key": "2023-07-23^^adimage.tw@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0185, 0.0693, 0.4086, 0.0182, 0.0022",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "afj26102846@yahoo.com.tw",
+    "system_key": "2023-07-23^^afj26102846@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0178, 0.069, 0.4152, 0.0176, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "afra5756@yahoo.com.tw",
+    "system_key": "2023-07-23^^afra5756@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.19476, 0.301084, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ag36@ms59.url.com.tw",
+    "system_key": "2023-07-23^^ag36@ms59.url.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0197, 0.0796, 0.4414, 0.0186, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aicd3939@gmail.com",
+    "system_key": "2023-07-23^^aicd3939@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0186, 0.0, 0.0, 0.0, 0.003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "akfd1@yahoo.com.tw",
+    "system_key": "2023-07-23^^akfd1@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.080782, 0.438314, 0.00751, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "alan307cc@gmail.com",
+    "system_key": "2023-07-23^^alan307cc@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0245, 0.0925, 0.4019, 0.026, 0.0052",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "alfchen@seed.net.tw",
+    "system_key": "2023-07-23^^alfchen@seed.net.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.063332, 0.0, 0.155223, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ali0911646446@gmail.com",
+    "system_key": "2023-07-23^^ali0911646446@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.049238, 0.065194, 0.392895, 0.008013, 0.004328",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "amg3389@gmail.com",
+    "system_key": "2023-07-23^^amg3389@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.039828, 0.0, 0.188416, 0.152209, 0.167842",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ami6900@gmail.com",
+    "system_key": "2023-07-23^^ami6900@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.000816, 0.225259, 0.329737, 0.0, 0.048065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "amy.huang74@gmail.com",
+    "system_key": "2023-07-23^^amy.huang74@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0397, 0.1531, 0.2673, 0.0376, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "amychen367@gmail.com",
+    "system_key": "2023-07-23^^amychen367@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0223, 0.1267, 0.1717, 0.0222, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "amyyang1937@gmail.com",
+    "system_key": "2023-07-23^^amyyang1937@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0281, 0.1082, 0.3318, 0.0343, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "anchentso@gmail.com",
+    "system_key": "2023-07-23^^anchentso@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0196, 0.0707, 0.3868, 0.0196, 0.0036",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "angela14071@gmail.com",
+    "system_key": "2023-07-23^^angela14071@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0163, 0.076, 0.4405, 0.0156, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "anita_5482@yahoo.com.tw",
+    "system_key": "2023-07-23^^anita_5482@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0203, 0.0722, 0.371, 0.0216, 0.0038",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "annie9221@hotmail.com",
+    "system_key": "2023-07-23^^annie9221@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0227, 0.0923, 0.4521, 0.0212, 0.0034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "anniecode@gmail.com",
+    "system_key": "2023-07-23^^anniecode@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.027467, 0.176449, 0.258584, 0.030408, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "annynini@yahoo.com.tw",
+    "system_key": "2023-07-23^^annynini@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0465, 0.1742, 0.1634, 0.0434, 0.0035",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "apanting1202@gmail.com",
+    "system_key": "2023-07-23^^apanting1202@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.046004, 0.0, 0.0, 0.0, 0.002965",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "arc0922150950@gmail.com",
+    "system_key": "2023-07-23^^arc0922150950@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0459, 0.251, 0.1063, 0.0507, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "arieleuny@gmail.com",
+    "system_key": "2023-07-23^^arieleuny@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.132877, 0.225775, 1.6e-05, 0.000938",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "arjane@gmail.com",
+    "system_key": "2023-07-23^^arjane@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.017, 0.057, 0.391, 0.0147, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "asas90043@gmail.com",
+    "system_key": "2023-07-23^^asas90043@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0329, 0.1102, 0.332, 0.0385, 0.0095",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "asd3239681@icloud.com",
+    "system_key": "2023-07-23^^asd3239681@icloud.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0446, 0.141, 0.1536, 0.0486, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "asdedesign.charles@gmail.com",
+    "system_key": "2023-07-23^^asdedesign.charles@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0295, 0.1136, 0.2744, 0.0388, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "asdfghjkl800116@gmail.com",
+    "system_key": "2023-07-23^^asdfghjkl800116@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0284, 0.104, 0.3869, 0.0326, 0.0086",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "asiryan@gmail.com",
+    "system_key": "2023-07-23^^asiryan@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.060409, 0.10836, 0.570218, 0.028481, 0.005157",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "aska5587@gmail.com",
+    "system_key": "2023-07-23^^aska5587@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.082084, 0.394852, 0.0, 0.001578",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "autosome@gmail.com",
+    "system_key": "2023-07-23^^autosome@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.450435, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ayhung@yahoo.com",
+    "system_key": "2023-07-23^^ayhung@yahoo.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0278, 0.1071, 0.3187, 0.0345, 0.0064",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "b9573320@yahoo.com.tw",
+    "system_key": "2023-07-23^^b9573320@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.051, 0.1924, 0.126, 0.0515, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "barrysun486@gmail.com",
+    "system_key": "2023-07-23^^barrysun486@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02399, 0.163918, 0.30397, 0.092385, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bb5i30@yahoo.com.tw",
+    "system_key": "2023-07-23^^bb5i30@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.032328, 0.063262, 0.296029, 0.0, 0.004048",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "beneilu@gmail.com",
+    "system_key": "2023-07-23^^beneilu@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0237, 0.0902, 0.3546, 0.0264, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "biancapan32@gmail.com",
+    "system_key": "2023-07-23^^biancapan32@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0494, 0.2319, 0.1266, 0.0469, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bill6a@hotmail.com",
+    "system_key": "2023-07-23^^bill6a@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.039, 0.1173, 0.2833, 0.0354, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bill89193192@gmail.com",
+    "system_key": "2023-07-23^^bill89193192@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.022264, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "billdavid50814@gmail.com",
+    "system_key": "2023-07-23^^billdavid50814@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0302, 0.1054, 0.3847, 0.0264, 0.0034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "billyshih6@gmail.com",
+    "system_key": "2023-07-23^^billyshih6@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0158, 0.097972, 0.487452, 0.017957, 0.007717",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "billzhao@iii.org.tw",
+    "system_key": "2023-07-23^^billzhao@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0235, 0.0953, 0.4, 0.0235, 0.002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "birther3@yahoo.com.tw",
+    "system_key": "2023-07-23^^birther3@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.635888, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bjp5769@kimo.com",
+    "system_key": "2023-07-23^^bjp5769@kimo.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.007149, 0.0, 0.294597, 0.030952, 0.00607",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "black_0827@hotmail.com",
+    "system_key": "2023-07-23^^black_0827@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0267, 0.0965, 0.3624, 0.0306, 0.0078",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "blackjerrylee@gmail.com",
+    "system_key": "2023-07-23^^blackjerrylee@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0397, 0.1388, 0.2261, 0.0399, 0.0055",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bnl907@hotmail.com",
+    "system_key": "2023-07-23^^bnl907@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.059602, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bong201@gmail.com",
+    "system_key": "2023-07-23^^bong201@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.011409, 0.0, 0.0, 0.04917, 0.002655",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "bryantwei0819@gmail.com",
+    "system_key": "2023-07-23^^bryantwei0819@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0202, 0.0728, 0.3946, 0.0188, 0.0052",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "c.sct927@gmail.com",
+    "system_key": "2023-07-23^^c.sct927@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0371, 0.142, 0.209, 0.0, 0.0056",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "c23234729@gmail.com",
+    "system_key": "2023-07-23^^c23234729@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0192, 0.0732, 0.4412, 0.0182, 0.0028",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "candy370198@gmail.com",
+    "system_key": "2023-07-23^^candy370198@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0233, 0.0875, 0.3472, 0.0259, 0.006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cappella.chen@gmail.com",
+    "system_key": "2023-07-23^^cappella.chen@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.045852, 0.111178, 0.093586, 0.022555, 0.058696",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "carol.c3134@gmail.com",
+    "system_key": "2023-07-23^^carol.c3134@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0527, 0.1921, 0.115, 0.0582, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "carrie0809@gmail.com",
+    "system_key": "2023-07-23^^carrie0809@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0362, 0.1177, 0.252, 0.0442, 0.0087",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "casso0915@yahoo.com.tw",
+    "system_key": "2023-07-23^^casso0915@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.045365, 0.155236, 0.445537, 0.098916, 0.004511",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cattlemancic@gmail.com",
+    "system_key": "2023-07-23^^cattlemancic@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cgz47212@yahoo.com.tw",
+    "system_key": "2023-07-23^^cgz47212@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0237, 0.0849, 0.3375, 0.0271, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chan661220@gmail.com",
+    "system_key": "2023-07-23^^chan661220@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.139349, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chao19881126@gmail.com",
+    "system_key": "2023-07-23^^chao19881126@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.03, 0.1202, 0.3725, 0.0293, 0.006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chaocheliu@hotmail.com",
+    "system_key": "2023-07-23^^chaocheliu@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0245, 0.0857, 0.3979, 0.0269, 0.0056",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chen1127@gmail.com",
+    "system_key": "2023-07-23^^chen1127@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chen185@hotmail.com",
+    "system_key": "2023-07-23^^chen185@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "3.5e-05, 0.0, 0.306078, 0.0, 0.059644",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chen56120@gmail.com",
+    "system_key": "2023-07-23^^chen56120@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0696, 0.1778, 0.1153, 0.0807, 0.0015",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chenchi715@gmail.com",
+    "system_key": "2023-07-23^^chenchi715@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.034, 0.0955, 0.2917, 0.0382, 0.009",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cheyun1128@yahoo.com.tw",
+    "system_key": "2023-07-23^^cheyun1128@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0288, 0.1152, 0.3821, 0.0277, 0.0069",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chiate6869@gmail.com",
+    "system_key": "2023-07-23^^chiate6869@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0265, 0.0974, 0.3732, 0.0305, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chin041539@gmail.com",
+    "system_key": "2023-07-23^^chin041539@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.000556, 0.132922, 0.346731, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chin3239@gmail.com",
+    "system_key": "2023-07-23^^chin3239@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0435, 0.2526, 0.1344, 0.0428, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chinuin.tw@gmail.com",
+    "system_key": "2023-07-23^^chinuin.tw@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0336, 0.1427, 0.3542, 0.0289, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chouaru@gmail.com",
+    "system_key": "2023-07-23^^chouaru@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0243, 0.1056, 0.3748, 0.0233, 0.0013",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "christine671221@gmail.com",
+    "system_key": "2023-07-23^^christine671221@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0185, 0.0738, 0.4662, 0.0169, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chuehtunghung@gmail.com",
+    "system_key": "2023-07-23^^chuehtunghung@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0385, 0.1907, 0.2872, 0.0354, 0.0016",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chulin0928@gmail.com",
+    "system_key": "2023-07-23^^chulin0928@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0322, 0.1269, 0.3134, 0.0389, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chun@iii.org.tw",
+    "system_key": "2023-07-23^^chun@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0421, 0.133, 0.2406, 0.0344, 0.0051",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "chung41280@gmail.com",
+    "system_key": "2023-07-23^^chung41280@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0284, 0.1083, 0.3763, 0.0321, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ciru38575925@gmail.com",
+    "system_key": "2023-07-23^^ciru38575925@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0417, 0.1556, 0.2389, 0.0426, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ckku@go.utaipei.edu.tw",
+    "system_key": "2023-07-23^^ckku@go.utaipei.edu.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0147, 0.0598, 0.4121, 0.0116, 0.0015",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cktsai71@hotmail.com",
+    "system_key": "2023-07-23^^cktsai71@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0442, 0.2479, 0.1375, 0.0439, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "clmwang@gmail.com",
+    "system_key": "2023-07-23^^clmwang@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018396, 0.0, 0.504804, 0.0, 0.000551",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "close1209@gmail.com",
+    "system_key": "2023-07-23^^close1209@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.171556, 0.502079, 0.0, 0.017713",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "coll787878@gmail.com",
+    "system_key": "2023-07-23^^coll787878@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0093, 0.0371, 0.3225, 0.0075, 0.0002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "coolmark0824@me.com",
+    "system_key": "2023-07-23^^coolmark0824@me.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0259, 0.0942, 0.3953, 0.029, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "corner335@gmail.com",
+    "system_key": "2023-07-23^^corner335@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0202, 0.071, 0.3765, 0.0211, 0.0051",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "crossarmy@hotmail.com",
+    "system_key": "2023-07-23^^crossarmy@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0226, 0.0704, 0.3707, 0.024, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ct8892@yahoo.com.tw",
+    "system_key": "2023-07-23^^ct8892@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0462, 0.1504, 0.1747, 0.0451, 0.0041",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cuder@ms53.url.com.tw",
+    "system_key": "2023-07-23^^cuder@ms53.url.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.2582, 0.1355, 0.0, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cun_0419@yahoo.com.tw",
+    "system_key": "2023-07-23^^cun_0419@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.043, 0.1736, 0.2122, 0.0456, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "cynthiaho174@gmail.com",
+    "system_key": "2023-07-23^^cynthiaho174@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0449, 0.2326, 0.149, 0.0506, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "d08112016@gmail.com",
+    "system_key": "2023-07-23^^d08112016@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0446, 0.1879, 0.2235, 0.0425, 0.0022",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "danielalcotex@hotmail.com",
+    "system_key": "2023-07-23^^danielalcotex@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.023, 0.0877, 0.417, 0.0243, 0.0039",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dassult@hotmail.com",
+    "system_key": "2023-07-23^^dassult@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0381, 0.1287, 0.2433, 0.0415, 0.0068",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dato75928@gmail.com",
+    "system_key": "2023-07-23^^dato75928@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0224, 0.0843, 0.4161, 0.0231, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dawson680112@gmail.com",
+    "system_key": "2023-07-23^^dawson680112@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.049914, 0.109847, 0.606897, 0.04995, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dcqix10110@gmail.com",
+    "system_key": "2023-07-23^^dcqix10110@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.049034, 0.0, 0.348149, 0.059857, 0.004642",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "debby790727@gmail.com",
+    "system_key": "2023-07-23^^debby790727@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0235, 0.0858, 0.3916, 0.0251, 0.0065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "deng@gpi.tw",
+    "system_key": "2023-07-23^^deng@gpi.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0222, 0.0836, 0.429, 0.0227, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "devinchen926@gmail.com",
+    "system_key": "2023-07-23^^devinchen926@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0374, 0.2504, 0.1857, 0.0379, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dick_1024@hotmail.com",
+    "system_key": "2023-07-23^^dick_1024@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0459, 0.2233, 0.1804, 0.0423, 0.0016",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dog76917@gmail.com",
+    "system_key": "2023-07-23^^dog76917@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018521, 0.193668, 0.567187, 0.048104, 0.002394",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dog_egg66@yahoo.com.tw",
+    "system_key": "2023-07-23^^dog_egg66@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.64913, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dont833@gmail.com",
+    "system_key": "2023-07-23^^dont833@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0274, 0.0927, 0.325, 0.0336, 0.0097",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dr781111.tw@gmail.com",
+    "system_key": "2023-07-23^^dr781111.tw@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.05646, 0.24311, 0.06097, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "dragon84210@gmail.com",
+    "system_key": "2023-07-23^^dragon84210@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0473, 0.2356, 0.1226, 0.0528, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "duh1142@gmail.com",
+    "system_key": "2023-07-23^^duh1142@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0216, 0.0925, 0.2897, 0.0263, 0.0046",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "e057436@hotmail.com",
+    "system_key": "2023-07-23^^e057436@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0479, 0.1825, 0.117, 0.0535, 0.0022",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "easyway4949@gmail.com",
+    "system_key": "2023-07-23^^easyway4949@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0498, 0.2113, 0.1575, 0.0476, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "echo1983050426@gmail.com",
+    "system_key": "2023-07-23^^echo1983050426@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0504, 0.1848, 0.1633, 0.0521, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "edgarllc.lin@gmail.com",
+    "system_key": "2023-07-23^^edgarllc.lin@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0122, 0.0565, 0.2663, 0.0104, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "edu503@zebra.com.tw",
+    "system_key": "2023-07-23^^edu503@zebra.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0319, 0.1194, 0.3255, 0.0, 0.0085",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "elephants5050@hotmail.com",
+    "system_key": "2023-07-23^^elephants5050@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.048083, 0.663776, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ellaloves@gmail.com",
+    "system_key": "2023-07-23^^ellaloves@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.045, 0.1464, 0.205, 0.0453, 0.0048",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "eno0226@gmail.com",
+    "system_key": "2023-07-23^^eno0226@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.110223, 0.162627, 0.013079, 0.008359",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "eqgamce@gmail.com",
+    "system_key": "2023-07-23^^eqgamce@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0243, 0.0903, 0.4159, 0.0256, 0.006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "erin12607@gmail.com",
+    "system_key": "2023-07-23^^erin12607@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.123254, 0.838472, 0.0, 0.002903",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "errkang1016@gmail.com",
+    "system_key": "2023-07-23^^errkang1016@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0417, 0.1424, 0.2157, 0.0452, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "evachang616@gmail.com",
+    "system_key": "2023-07-23^^evachang616@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0483, 0.2426, 0.1119, 0.049, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "eyes0770@gmail.com",
+    "system_key": "2023-07-23^^eyes0770@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0184, 0.0677, 0.4121, 0.0176, 0.0029",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "f0910166777@gmail.com",
+    "system_key": "2023-07-23^^f0910166777@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.027123, 0.047533, 0.150503, 0.0, 0.011034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "f19941003@gmail.com",
+    "system_key": "2023-07-23^^f19941003@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.003028, 0.32827, 0.270603, 0.082957, 0.00634",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "fanfan.hmf@gmail.com",
+    "system_key": "2023-07-23^^fanfan.hmf@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.027651, 0.262224, 0.011492, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "fclee1970@gmail.com",
+    "system_key": "2023-07-23^^fclee1970@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.015535, 0.075416, 0.702465, 0.0, 0.035732",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "fei9697@yahoo.com.tw",
+    "system_key": "2023-07-23^^fei9697@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0444, 0.2467, 0.1408, 0.044, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "feng.jhwa@gmail.com",
+    "system_key": "2023-07-23^^feng.jhwa@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0241, 0.0865, 0.376, 0.0264, 0.007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "finexice@gmail.com",
+    "system_key": "2023-07-23^^finexice@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0438, 0.2537, 0.1253, 0.045, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "finexkao@hotmail.com",
+    "system_key": "2023-07-23^^finexkao@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.038, 0.1163, 0.2538, 0.0418, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "fo1683@ms14.hinet.net",
+    "system_key": "2023-07-23^^fo1683@ms14.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0171, 0.0634, 0.4111, 0.0158, 0.0026",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "franny@alco-int.com",
+    "system_key": "2023-07-23^^franny@alco-int.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0288, 0.0902, 0.321, 0.0353, 0.0111",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "frehsia@gmail.com",
+    "system_key": "2023-07-23^^frehsia@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0225, 0.0855, 0.4042, 0.0236, 0.0043",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "g0707c@gmail.com",
+    "system_key": "2023-07-23^^g0707c@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0546, 0.229, 0.1197, 0.065, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "g07191540@hotmail.com",
+    "system_key": "2023-07-23^^g07191540@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0314, 0.1286, 0.377, 0.0312, 0.007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "g0927117@gmail.com",
+    "system_key": "2023-07-23^^g0927117@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0398, 0.1564, 0.2936, 0.0355, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gaomeirong88@gmail.com",
+    "system_key": "2023-07-23^^gaomeirong88@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0296, 0.1025, 0.3746, 0.0263, 0.0039",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "garfield01230@hotmail.com",
+    "system_key": "2023-07-23^^garfield01230@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0363, 0.1504, 0.3171, 0.0336, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gb21607@gmail.com",
+    "system_key": "2023-07-23^^gb21607@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0178, 0.0667, 0.4158, 0.0, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "giga.deco@gmail.com",
+    "system_key": "2023-07-23^^giga.deco@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.096016, 0.267035, 0.007565, 0.012431",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gillchan0106@gmail.com",
+    "system_key": "2023-07-23^^gillchan0106@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0359, 0.1446, 0.3118, 0.035, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gimo0104@gmail.com",
+    "system_key": "2023-07-23^^gimo0104@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02908, 0.104181, 0.3568, 0.047649, 0.009596",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gina2002232002@gmail.com",
+    "system_key": "2023-07-23^^gina2002232002@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0286, 0.1062, 0.3609, 0.0339, 0.0081",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "goalie321@gmail.com",
+    "system_key": "2023-07-23^^goalie321@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.351862, 0.018692, 0.011704",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "godhomeling@gmail.com",
+    "system_key": "2023-07-23^^godhomeling@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.184528, 0.136036, 0.024822, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "goldnice@gmail.com",
+    "system_key": "2023-07-23^^goldnice@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.090614, 0.000209, 0.034263",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gpyrbo@msn.com",
+    "system_key": "2023-07-23^^gpyrbo@msn.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.005731, 0.141699, 0.339253, 0.0, 0.007394",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "grace4988@hotmail.com",
+    "system_key": "2023-07-23^^grace4988@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0479, 0.2192, 0.1497, 0.0526, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gracechang0903@gmail.com",
+    "system_key": "2023-07-23^^gracechang0903@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0349, 0.0963, 0.3089, 0.0374, 0.0112",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gracie0218@gmail.com",
+    "system_key": "2023-07-23^^gracie0218@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0128, 0.0563, 0.2693, 0.0088, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "griffecy@gmail.com",
+    "system_key": "2023-07-23^^griffecy@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0175, 0.0653, 0.4024, 0.0167, 0.0028",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "gsyao1@outlook.com",
+    "system_key": "2023-07-23^^gsyao1@outlook.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0226, 0.099, 0.2797, 0.029, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "guey0916@gmail.com",
+    "system_key": "2023-07-23^^guey0916@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0472, 0.24, 0.1208, 0.053, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "h034880245@gmail.com",
+    "system_key": "2023-07-23^^h034880245@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0461, 0.2214, 0.1716, 0.0493, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "h19810601@gmail.com",
+    "system_key": "2023-07-23^^h19810601@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0216, 0.0776, 0.397, 0.0221, 0.0054",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "haha2133@gmail.com",
+    "system_key": "2023-07-23^^haha2133@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0208, 0.073, 0.3737, 0.0219, 0.005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "harrison5782@gmail.com",
+    "system_key": "2023-07-23^^harrison5782@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.040209, 0.0, 0.458753, 0.029098, 0.01172",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hcy19850120@gmail.com",
+    "system_key": "2023-07-23^^hcy19850120@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0398, 0.2534, 0.1528, 0.0418, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "helenkuo1222@gmail.com",
+    "system_key": "2023-07-23^^helenkuo1222@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0285, 0.1158, 0.257, 0.0367, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "henry.henrydai@gmail.com",
+    "system_key": "2023-07-23^^henry.henrydai@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.019, 0.0802, 0.4285, 0.019, 0.0015",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "henry3268@gmail.com",
+    "system_key": "2023-07-23^^henry3268@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0271, 0.0939, 0.3824, 0.0309, 0.0083",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "henrychang1201@gmail.com",
+    "system_key": "2023-07-23^^henrychang1201@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.043548, 0.571452, 0.013984, 0.003151",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "henrychen1226@gmail.com",
+    "system_key": "2023-07-23^^henrychen1226@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.056433, 0.06682, 0.590779, 0.001284, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "henrysh.dai@gmail.com",
+    "system_key": "2023-07-23^^henrysh.dai@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0421, 0.2506, 0.1502, 0.0, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "herbert3624@yahoo.com.tw",
+    "system_key": "2023-07-23^^herbert3624@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.045, 0.1581, 0.1982, 0.0391, 0.0038",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hjko1976@gmail.com",
+    "system_key": "2023-07-23^^hjko1976@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0148, 0.0576, 0.4, 0.0144, 0.0014",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hodadyme@gmail.com",
+    "system_key": "2023-07-23^^hodadyme@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0349, 0.1711, 0.2242, 0.0372, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hojenhuei77@gmail.com",
+    "system_key": "2023-07-23^^hojenhuei77@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.025105, 0.172204, 0.31119, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "honey.ch925@gmail.com",
+    "system_key": "2023-07-23^^honey.ch925@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02, 0.0761, 0.4251, 0.02, 0.0026",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "honglienou@gmail.com",
+    "system_key": "2023-07-23^^honglienou@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.077056, 0.663076, 0.026587, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hongyi.design@msa.hinet.net",
+    "system_key": "2023-07-23^^hongyi.design@msa.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0319, 0.1257, 0.3141, 0.0387, 0.0075",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "howne@gmail.com",
+    "system_key": "2023-07-23^^howne@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.051, 0.2089, 0.1131, 0.0507, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hoyuwen@gmail.com",
+    "system_key": "2023-07-23^^hoyuwen@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.028, 0.1094, 0.2656, 0.0296, 0.0041",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hsinhsin9866@gmail.com",
+    "system_key": "2023-07-23^^hsinhsin9866@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0265, 0.121, 0.2331, 0.0292, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hsubox0527@gmail.com",
+    "system_key": "2023-07-23^^hsubox0527@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0452, 0.2417, 0.1387, 0.045, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hsusuwei@gmail.com",
+    "system_key": "2023-07-23^^hsusuwei@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0186, 0.0698, 0.3854, 0.0172, 0.0037",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "htl1226@hotmail.com",
+    "system_key": "2023-07-23^^htl1226@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0359, 0.1298, 0.2575, 0.0307, 0.0023",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "huangchiayang@gmail.com",
+    "system_key": "2023-07-23^^huangchiayang@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.057119, 0.0, 0.501216, 0.031016, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hugo_cat8@msn.com",
+    "system_key": "2023-07-23^^hugo_cat8@msn.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "9.7e-05, 0.08614, 0.607765, 0.04831, 0.031132",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "hyytony@seed.net.tw",
+    "system_key": "2023-07-23^^hyytony@seed.net.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0265, 0.1015, 0.3183, 0.0321, 0.0061",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "i19861017@gmail.com",
+    "system_key": "2023-07-23^^i19861017@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0171, 0.0759, 0.3139, 0.019, 0.0031",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "i227279@yahoo.com.tw",
+    "system_key": "2023-07-23^^i227279@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.113939, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ichung1968@gmail.com",
+    "system_key": "2023-07-23^^ichung1968@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0097, 0.0415, 0.4076, 0.0091, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ifm431101@cathaylife.com.tw",
+    "system_key": "2023-07-23^^ifm431101@cathaylife.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.022522, 0.110193, 0.247006, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "insane_puffer@yahoo.com.tw",
+    "system_key": "2023-07-23^^insane_puffer@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.001106, 0.112092, 0.0, 0.071532, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "is780611@gmail.com",
+    "system_key": "2023-07-23^^is780611@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0357, 0.1062, 0.3029, 0.0375, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ivy570402@gmail.com",
+    "system_key": "2023-07-23^^ivy570402@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.022, 0.083, 0.4312, 0.0224, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jackliu.work@gmail.com",
+    "system_key": "2023-07-23^^jackliu.work@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0363, 0.1273, 0.2471, 0.0422, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "james.sh.huang@gmail.com",
+    "system_key": "2023-07-23^^james.sh.huang@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.101534, 0.23525, 0.0001, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jamesmine2@yahoo.com.tw",
+    "system_key": "2023-07-23^^jamesmine2@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0327, 0.1381, 0.3269, 0.0353, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jamie.wang100@gmail.com",
+    "system_key": "2023-07-23^^jamie.wang100@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0375, 0.1261, 0.2492, 0.0435, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jane.chen@fredco.com.tw",
+    "system_key": "2023-07-23^^jane.chen@fredco.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0202, 0.0743, 0.4022, 0.021, 0.0029",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "janey0528@gmail.com",
+    "system_key": "2023-07-23^^janey0528@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0169, 0.0695, 0.0, 0.0, 0.0031",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "janice26248@gmail.com",
+    "system_key": "2023-07-23^^janice26248@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.082, 0.1775, 0.086, 0.0851, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jason.season71@gmail.com",
+    "system_key": "2023-07-23^^jason.season71@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.094337, 0.136014, 0.248631, 0.043476, 0.01488",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jay506@gmail.com",
+    "system_key": "2023-07-23^^jay506@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0438, 0.1435, 0.2146, 0.0432, 0.0059",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jaychung0@gmail.com",
+    "system_key": "2023-07-23^^jaychung0@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0302, 0.1006, 0.3654, 0.0328, 0.0065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jeff86860910@yahoo.com.tw",
+    "system_key": "2023-07-23^^jeff86860910@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0235, 0.0832, 0.3608, 0.0258, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jeng.wu.shiung@gmail.com",
+    "system_key": "2023-07-23^^jeng.wu.shiung@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.760725, 0.065285, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jenny_5599@hotmail.com",
+    "system_key": "2023-07-23^^jenny_5599@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.012919, 0.11447, 0.120608, 0.0, 0.049562",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jerry.yang0998@gmail.com",
+    "system_key": "2023-07-23^^jerry.yang0998@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.708729, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jerryslin@gmail.com",
+    "system_key": "2023-07-23^^jerryslin@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.04782, 0.0, 0.028041, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jessie_791130@yahoo.com.tw",
+    "system_key": "2023-07-23^^jessie_791130@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0389, 0.1523, 0.2751, 0.0, 0.0077",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jiade0919@gmail.com",
+    "system_key": "2023-07-23^^jiade0919@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.026569, 0.093378, 0.399458, 0.098051, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jimliu29@hotmail.com",
+    "system_key": "2023-07-23^^jimliu29@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.026944, 0.443897, 0.119506, 0.004858",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jingyi0419@mch.org.tw",
+    "system_key": "2023-07-23^^jingyi0419@mch.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0126, 0.0522, 0.3754, 0.0119, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jj741129@hotmail.com",
+    "system_key": "2023-07-23^^jj741129@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.035284, 0.000703, 0.342394, 0.011087, 0.006874",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jjch100@yahoo.com.tw",
+    "system_key": "2023-07-23^^jjch100@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0166, 0.111, 0.6809, 0.0123, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jjjccc100@hotmail.com",
+    "system_key": "2023-07-23^^jjjccc100@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.071434, 0.0, 0.040954, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jlvanban@hotmail.com",
+    "system_key": "2023-07-23^^jlvanban@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0419, 0.1653, 0.2482, 0.0403, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jming03333@gmail.com",
+    "system_key": "2023-07-23^^jming03333@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.027, 0.107, 0.2999, 0.034, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "joan@sish.ntpc.edu.tw",
+    "system_key": "2023-07-23^^joan@sish.ntpc.edu.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0264, 0.0965, 0.3449, 0.0, 0.0078",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jonasou45@yahoo.com.tw",
+    "system_key": "2023-07-23^^jonasou45@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.106507, 0.562822, 0.0, 0.002935",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "joney88@gmail.com",
+    "system_key": "2023-07-23^^joney88@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.489204, 0.180574, 0.0, 0.014193",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jony0222@hotmail.com",
+    "system_key": "2023-07-23^^jony0222@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0145, 0.06, 0.5192, 0.0088, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jouli.pian@gmail.com",
+    "system_key": "2023-07-23^^jouli.pian@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0155, 0.061, 0.4295, 0.0147, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ju530520@yahoo.com.tw",
+    "system_key": "2023-07-23^^ju530520@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0516, 0.1906, 0.1292, 0.052, 0.0022",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "judasliao@gmail.com",
+    "system_key": "2023-07-23^^judasliao@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0146, 0.0608, 0.4638, 0.0124, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "judy_lu@ms49.url.com.tw",
+    "system_key": "2023-07-23^^judy_lu@ms49.url.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.2272, 0.1173, 0.0519, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "julia850104@gmail.com",
+    "system_key": "2023-07-23^^julia850104@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0256, 0.0922, 0.3808, 0.0284, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "justenjoy521@gmail.com",
+    "system_key": "2023-07-23^^justenjoy521@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0192, 0.0692, 0.4205, 0.0176, 0.0044",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "justine1008@yahoo.com.tw",
+    "system_key": "2023-07-23^^justine1008@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0279, 0.1054, 0.291, 0.0311, 0.0052",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "jw0390122@gmail.com",
+    "system_key": "2023-07-23^^jw0390122@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0214, 0.0709, 0.3662, 0.0235, 0.0049",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "k200540170john@gmail.com",
+    "system_key": "2023-07-23^^k200540170john@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0516, 0.2122, 0.158, 0.0565, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kao2334@ms26.hinet.net",
+    "system_key": "2023-07-23^^kao2334@ms26.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0239, 0.0855, 0.3813, 0.0261, 0.0065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kao@syang.com.tw",
+    "system_key": "2023-07-23^^kao@syang.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018, 0.0724, 0.4574, 0.0172, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kaysta911@gmail.com",
+    "system_key": "2023-07-23^^kaysta911@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.400206, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kazuya520223@gmail.com",
+    "system_key": "2023-07-23^^kazuya520223@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.015702, 0.201231, 0.449046, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ke17vinc@yahoo.com.tw",
+    "system_key": "2023-07-23^^ke17vinc@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02, 0.0733, 0.3953, 0.0195, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kellywu0307@gmail.com",
+    "system_key": "2023-07-23^^kellywu0307@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0398, 0.1406, 0.2164, 0.0442, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "keny543@gmail.com",
+    "system_key": "2023-07-23^^keny543@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.062718, 0.0, 0.44459, 0.0, 0.031465",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "khuang6869@gmail.com",
+    "system_key": "2023-07-23^^khuang6869@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0217, 0.0826, 0.4192, 0.0216, 0.003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kikilala222324@yahoo.com.tw",
+    "system_key": "2023-07-23^^kikilala222324@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.035918, 0.046448, 0.062395, 0.0, 0.000342",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "king7483@gmail.com",
+    "system_key": "2023-07-23^^king7483@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0309, 0.0829, 0.3419, 0.0326, 0.0106",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "king7483@msn.com",
+    "system_key": "2023-07-23^^king7483@msn.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0249, 0.0839, 0.3761, 0.0277, 0.007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kirinrin1129@gmail.com",
+    "system_key": "2023-07-23^^kirinrin1129@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0402, 0.1243, 0.2573, 0.0354, 0.0062",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kittyruru88@gmail.com",
+    "system_key": "2023-07-23^^kittyruru88@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0292, 0.0979, 0.3168, 0.0365, 0.0103",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kofkyo410@hotmail.com",
+    "system_key": "2023-07-23^^kofkyo410@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0349, 0.1336, 0.2397, 0.0457, 0.0072",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kofkyo410@yahoo.com.tw",
+    "system_key": "2023-07-23^^kofkyo410@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0472, 0.2343, 0.1331, 0.05, 0.0009",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "koi52013@yahoo.com.tw",
+    "system_key": "2023-07-23^^koi52013@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0178, 0.0651, 0.3899, 0.0179, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "kyl298344@gmail.com",
+    "system_key": "2023-07-23^^kyl298344@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.132216, 0.154361, 0.026114, 0.007448",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "l6155888@ms29.hinet.net",
+    "system_key": "2023-07-23^^l6155888@ms29.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.073777, 0.643337, 0.0, 0.006772",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lamo2001@gmail.com",
+    "system_key": "2023-07-23^^lamo2001@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0305, 0.1183, 0.3014, 0.0386, 0.0068",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lawfoo005@gmail.com",
+    "system_key": "2023-07-23^^lawfoo005@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0479, 0.2008, 0.1804, 0.0384, 0.0036",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lch1314888@gmail.com",
+    "system_key": "2023-07-23^^lch1314888@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0328, 0.1166, 0.3406, 0.0385, 0.0099",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lee4304205@gmail.com",
+    "system_key": "2023-07-23^^lee4304205@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0224, 0.0808, 0.3637, 0.0238, 0.0062",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "leeapay@gmail.com",
+    "system_key": "2023-07-23^^leeapay@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0308, 0.1167, 0.302, 0.039, 0.0077",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "leeleon555@gmail.com",
+    "system_key": "2023-07-23^^leeleon555@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0213, 0.0928, 0.4964, 0.0146, 0.003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "leetsengkuo@gmail.com",
+    "system_key": "2023-07-23^^leetsengkuo@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.052, 0.2327, 0.0991, 0.0613, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "leoleo917@icloud.com",
+    "system_key": "2023-07-23^^leoleo917@icloud.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0176, 0.0649, 0.4017, 0.0156, 0.0028",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "liangting72@gmail.com",
+    "system_key": "2023-07-23^^liangting72@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.080233, 0.055736, 0.469613, 0.018818, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "liao.fen1964@gmail.com",
+    "system_key": "2023-07-23^^liao.fen1964@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.041277, 0.055104, 0.273142, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lihen-2@yahoo.com.tw",
+    "system_key": "2023-07-23^^lihen-2@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0281, 0.0975, 0.3366, 0.0339, 0.0093",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lin0937465502@gmail.com",
+    "system_key": "2023-07-23^^lin0937465502@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0135, 0.046, 0.3019, 0.0123, 0.0009",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lin27711118@gmail.com",
+    "system_key": "2023-07-23^^lin27711118@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.056779, 0.0, 0.626488, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lin_hong_pin@hotmail.com",
+    "system_key": "2023-07-23^^lin_hong_pin@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0274, 0.1036, 0.3788, 0.0288, 0.0081",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "linwayet@gmail.com",
+    "system_key": "2023-07-23^^linwayet@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0191, 0.0684, 0.3868, 0.0192, 0.0033",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "littlypon@gmail.com",
+    "system_key": "2023-07-23^^littlypon@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0271, 0.0941, 0.3824, 0.0305, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "liugchihwu@yahoo.com.tw",
+    "system_key": "2023-07-23^^liugchihwu@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0408, 0.1548, 0.2149, 0.0409, 0.0051",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lizardbbq@gmail.com",
+    "system_key": "2023-07-23^^lizardbbq@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0411, 0.1532, 0.261, 0.0363, 0.006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lky993@gmail.com",
+    "system_key": "2023-07-23^^lky993@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0317, 0.1158, 0.2672, 0.041, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "louis803@gmail.com",
+    "system_key": "2023-07-23^^louis803@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.043923, 0.087407, 0.599524, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lousin0913@gmail.com",
+    "system_key": "2023-07-23^^lousin0913@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0239, 0.087, 0.3368, 0.0243, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "love519008@yahoo.com.tw",
+    "system_key": "2023-07-23^^love519008@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0207, 0.0863, 0.4091, 0.0215, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "loveing0324@gmail.com",
+    "system_key": "2023-07-23^^loveing0324@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.0637, 0.4314, 0.0154, 0.0025",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lubyhsu0151@gmail.com",
+    "system_key": "2023-07-23^^lubyhsu0151@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.011747, 0.0, 0.126492, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "luck111666@gmail.com",
+    "system_key": "2023-07-23^^luck111666@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0244, 0.0953, 0.4277, 0.0257, 0.0036",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lupy771104@gmail.com",
+    "system_key": "2023-07-23^^lupy771104@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0212, 0.0758, 0.3775, 0.0219, 0.0058",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "lydiachiu0218@yahoo.com.tw",
+    "system_key": "2023-07-23^^lydiachiu0218@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0263, 0.1069, 0.4235, 0.023, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "m810806@gmail.com",
+    "system_key": "2023-07-23^^m810806@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0165, 0.0782, 0.4321, 0.0155, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ma19540209@gmail.com",
+    "system_key": "2023-07-23^^ma19540209@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0254, 0.1036, 0.3811, 0.0263, 0.0069",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "maggie0601@kimo.com",
+    "system_key": "2023-07-23^^maggie0601@kimo.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0226, 0.0887, 0.4223, 0.0216, 0.005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mai-fei@803.org.tw",
+    "system_key": "2023-07-23^^mai-fei@803.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0215, 0.091, 0.4875, 0.0156, 0.0034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mail.hsien@gmail.com",
+    "system_key": "2023-07-23^^mail.hsien@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0173, 0.0671, 0.4147, 0.0169, 0.0016",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mama561929@gmail.com",
+    "system_key": "2023-07-23^^mama561929@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.057792, 0.052195, 0.695288, 0.0, 0.000323",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mandy701228@yahoo.com.tw",
+    "system_key": "2023-07-23^^mandy701228@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0383, 0.1212, 0.2523, 0.0396, 0.0066",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mark110137@gmail.com",
+    "system_key": "2023-07-23^^mark110137@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0522, 0.2206, 0.1084, 0.0549, 0.0014",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "martin80712@gmail.com",
+    "system_key": "2023-07-23^^martin80712@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0492, 0.2327, 0.1264, 0.0576, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "marty55876@gmail.com",
+    "system_key": "2023-07-23^^marty55876@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.030312, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "marylin@iii.org.tw",
+    "system_key": "2023-07-23^^marylin@iii.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0166, 0.111, 0.6809, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "max2004.kevin@msa.hinet.net",
+    "system_key": "2023-07-23^^max2004.kevin@msa.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0258, 0.0733, 0.3567, 0.0285, 0.0091",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "maxon1975@gmail.com",
+    "system_key": "2023-07-23^^maxon1975@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.028656, 0.239389, 0.420812, 0.0, 0.01198",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "may29876525@hotmail.com",
+    "system_key": "2023-07-23^^may29876525@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0138, 0.0613, 0.2874, 0.0141, 0.0013",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mcgrady9912@gmail.com",
+    "system_key": "2023-07-23^^mcgrady9912@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0449, 0.2411, 0.1423, 0.0448, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "meglinmeng@gmail.com",
+    "system_key": "2023-07-23^^meglinmeng@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0348, 0.1272, 0.309, 0.0, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "memberbox@yahoo.com.tw",
+    "system_key": "2023-07-23^^memberbox@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.073273, 0.669011, 0.027496, 0.000482",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mentor1228@gmail.com",
+    "system_key": "2023-07-23^^mentor1228@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0375, 0.1655, 0.2949, 0.0361, 0.0069",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "miawei@yahoo.com.tw",
+    "system_key": "2023-07-23^^miawei@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.05, 0.1676, 0.182, 0.0498, 0.0043",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "michael.kc.liao@icloud.com",
+    "system_key": "2023-07-23^^michael.kc.liao@icloud.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.016, 0.074, 0.4652, 0.0149, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "michaelcheninprayer@gmail.com",
+    "system_key": "2023-07-23^^michaelcheninprayer@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0154, 0.0618, 0.4322, 0.0142, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "michltw@yahoo.com.tw",
+    "system_key": "2023-07-23^^michltw@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.054666, 0.13226, 0.435589, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mightymiketaiwan@gmail.com",
+    "system_key": "2023-07-23^^mightymiketaiwan@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0267, 0.1076, 0.4395, 0.0264, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mikejkj3@gmail.com",
+    "system_key": "2023-07-23^^mikejkj3@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0274, 0.0989, 0.3514, 0.0318, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mimdyshii560701@gmail.com",
+    "system_key": "2023-07-23^^mimdyshii560701@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0444, 0.1634, 0.1828, 0.0418, 0.0039",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mk58550117@gmail.com",
+    "system_key": "2023-07-23^^mk58550117@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0285, 0.1072, 0.3869, 0.0324, 0.0071",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ml350ea@yahoo.com.tw",
+    "system_key": "2023-07-23^^ml350ea@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0266, 0.0963, 0.3986, 0.0, 0.0066",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "monsavoirfaire@gmail.com",
+    "system_key": "2023-07-23^^monsavoirfaire@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.032, 0.0863, 0.318, 0.0353, 0.0112",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "moto701008@gmail.com",
+    "system_key": "2023-07-23^^moto701008@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0391, 0.1595, 0.2841, 0.0, 0.0069",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "mychanwu@gmail.com",
+    "system_key": "2023-07-23^^mychanwu@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0259, 0.108, 0.2662, 0.0328, 0.0052",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "myl3988@gmail.com",
+    "system_key": "2023-07-23^^myl3988@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0409, 0.2652, 0.1282, 0.0427, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "n0910707950@gmail.com",
+    "system_key": "2023-07-23^^n0910707950@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0228, 0.0828, 0.3903, 0.0242, 0.0056",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nelson6176@gmail.com",
+    "system_key": "2023-07-23^^nelson6176@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0202, 0.0772, 0.4189, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nelson8586@gmail.com",
+    "system_key": "2023-07-23^^nelson8586@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0234, 0.0913, 0.3192, 0.0277, 0.0061",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nelsonshyr@msn.com",
+    "system_key": "2023-07-23^^nelsonshyr@msn.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.055, 0.4212, 0.0134, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "niasunny31@gmail.com",
+    "system_key": "2023-07-23^^niasunny31@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0216, 0.0875, 0.4192, 0.0212, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nice1227@hotmail.com",
+    "system_key": "2023-07-23^^nice1227@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.057, 0.2066, 0.1212, 0.0595, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nick.hsiao1123@gmail.com",
+    "system_key": "2023-07-23^^nick.hsiao1123@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0236, 0.0799, 0.3964, 0.0248, 0.0047",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nicole7118@yahoo.com.tw",
+    "system_key": "2023-07-23^^nicole7118@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.112732, 0.570194, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nokia852336@gmail.com",
+    "system_key": "2023-07-23^^nokia852336@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0212, 0.0651, 0.3806, 0.0219, 0.0059",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "nono820212@gmail.com",
+    "system_key": "2023-07-23^^nono820212@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0195, 0.0728, 0.377, 0.0202, 0.0047",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "o0877@yahoo.com.tw",
+    "system_key": "2023-07-23^^o0877@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.04, 0.2206, 0.2248, 0.0386, 0.0008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "o761027@gmail.com",
+    "system_key": "2023-07-23^^o761027@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0244, 0.0887, 0.3988, 0.0261, 0.0055",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "o922912381@gmail.com",
+    "system_key": "2023-07-23^^o922912381@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0212, 0.0771, 0.4122, 0.0221, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "oa801223@gmail.com",
+    "system_key": "2023-07-23^^oa801223@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0337, 0.1382, 0.3366, 0.0323, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "onlymiu@gmail.com",
+    "system_key": "2023-07-23^^onlymiu@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.047, 0.1661, 0.1647, 0.0501, 0.0049",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "otis_wu@yahoo.com.tw",
+    "system_key": "2023-07-23^^otis_wu@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0259, 0.0926, 0.3721, 0.0275, 0.0055",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "p405070@gmail.com",
+    "system_key": "2023-07-23^^p405070@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018711, 0.0, 0.174633, 0.007615, 0.030372",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pairry83@gmail.com",
+    "system_key": "2023-07-23^^pairry83@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.59592, 0.0, 0.006083",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "panda980601@gmail.com",
+    "system_key": "2023-07-23^^panda980601@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0332, 0.1228, 0.2342, 0.0435, 0.0065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "peidek@gmail.com",
+    "system_key": "2023-07-23^^peidek@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0498, 0.1937, 0.1034, 0.0483, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "peilien1015@yahoo.com.tw",
+    "system_key": "2023-07-23^^peilien1015@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0215, 0.077, 0.3763, 0.0214, 0.0044",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "peng161242@gmail.com",
+    "system_key": "2023-07-23^^peng161242@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.088981, 0.0, 0.639362, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "penny880719@gmail.com",
+    "system_key": "2023-07-23^^penny880719@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0136, 0.0532, 0.3869, 0.0132, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "photocom.rex@gmail.com",
+    "system_key": "2023-07-23^^photocom.rex@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0206, 0.0732, 0.3858, 0.0, 0.0034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "phs0968999@gmail.com",
+    "system_key": "2023-07-23^^phs0968999@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0344, 0.1428, 0.338, 0.0329, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pikka1120@gmail.com",
+    "system_key": "2023-07-23^^pikka1120@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0132, 0.0505, 0.418, 0.0116, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pinkpig0520@gmail.com",
+    "system_key": "2023-07-23^^pinkpig0520@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0292, 0.107, 0.3778, 0.0334, 0.0083",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "piosnstin@gmail.com",
+    "system_key": "2023-07-23^^piosnstin@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0418, 0.2594, 0.1335, 0.0422, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pjjppy5692@gmail.com",
+    "system_key": "2023-07-23^^pjjppy5692@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0421, 0.2436, 0.1508, 0.0471, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "play4101@gmail.com",
+    "system_key": "2023-07-23^^play4101@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0315, 0.088, 0.3147, 0.0363, 0.0118",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pllee0515@gmail.com",
+    "system_key": "2023-07-23^^pllee0515@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0258, 0.0974, 0.3263, 0.0307, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pololukas@hotmail.com",
+    "system_key": "2023-07-23^^pololukas@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0321, 0.1291, 0.3544, 0.0342, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pony3060@gmail.com",
+    "system_key": "2023-07-23^^pony3060@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0278, 0.1116, 0.3792, 0.0289, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pooh22746@gmail.com",
+    "system_key": "2023-07-23^^pooh22746@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0511, 0.1822, 0.1281, 0.0477, 0.0024",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pordd457@gmail.com",
+    "system_key": "2023-07-23^^pordd457@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0182, 0.0723, 0.433, 0.0178, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "puli0127@yahoo.com.tw",
+    "system_key": "2023-07-23^^puli0127@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.010063, 0.114743, 0.701648, 0.0, 0.002531",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "puli55665566@gmail.com",
+    "system_key": "2023-07-23^^puli55665566@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.077593, 0.224414, 0.049984, 0.006102",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "pzv1kam3ol4g@gmail.com",
+    "system_key": "2023-07-23^^pzv1kam3ol4g@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0378, 0.1547, 0.2891, 0.0316, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "q0922604297@gmail.com",
+    "system_key": "2023-07-23^^q0922604297@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0241, 0.102, 0.2686, 0.0292, 0.0047",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "q133161359@hotmail.com",
+    "system_key": "2023-07-23^^q133161359@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.033, 0.1264, 0.2998, 0.0408, 0.008",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "redbear676@gmail.com",
+    "system_key": "2023-07-23^^redbear676@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0292, 0.1078, 0.3308, 0.036, 0.0085",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "rennyliao@gmail.com",
+    "system_key": "2023-07-23^^rennyliao@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0354, 0.1207, 0.3108, 0.0, 0.0075",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "risk0937857769@yahoo.com.tw",
+    "system_key": "2023-07-23^^risk0937857769@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "rita22751450@yahoo.com.tw",
+    "system_key": "2023-07-23^^rita22751450@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0552, 0.2117, 0.1083, 0.0595, 0.0021",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ritalo1225@gmail.com",
+    "system_key": "2023-07-23^^ritalo1225@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.2301, 0.108, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ritaluetb@gmail.com",
+    "system_key": "2023-07-23^^ritaluetb@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.06227, 0.514098, 0.034935, 0.000114",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ro0628.tw@gmail.com",
+    "system_key": "2023-07-23^^ro0628.tw@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0257, 0.1063, 0.4061, 0.0269, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "rocketlin.tw@gmail.com",
+    "system_key": "2023-07-23^^rocketlin.tw@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.185206, 0.0, 0.003038",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ron51234@hotmail.com",
+    "system_key": "2023-07-23^^ron51234@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.557416, 0.0, 0.000662",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "roushien2011@gmail.com",
+    "system_key": "2023-07-23^^roushien2011@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0237, 0.0834, 0.3699, 0.026, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "routhchen@gmail.com",
+    "system_key": "2023-07-23^^routhchen@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.059047, 0.0, 0.028006, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "roy750905_02@yahoo.com.tw",
+    "system_key": "2023-07-23^^roy750905_02@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.016999, 0.07038, 0.160107, 0.026619, 0.003779",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ryderhsu@icloud.com",
+    "system_key": "2023-07-23^^ryderhsu@icloud.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0151, 0.0589, 0.3665, 0.0154, 0.0018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "s0075@ms9.hinet.net",
+    "system_key": "2023-07-23^^s0075@ms9.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0141, 0.0665, 0.4309, 0.0127, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "s0910393595@gmail.com",
+    "system_key": "2023-07-23^^s0910393595@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0318, 0.1199, 0.3219, 0.0386, 0.0076",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "s0915398585@gmail.com",
+    "system_key": "2023-07-23^^s0915398585@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.062517, 0.0, 0.267605, 0.03368, 0.010018",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "s51402s51402@gmail.com",
+    "system_key": "2023-07-23^^s51402s51402@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0124, 0.0292, 0.333, 0.0075, 0.0001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sacrify2002@yahoo.com.tw",
+    "system_key": "2023-07-23^^sacrify2002@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0403, 0.2333, 0.1829, 0.0458, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sakana7158@gmail.com",
+    "system_key": "2023-07-23^^sakana7158@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0416, 0.1484, 0.2372, 0.0407, 0.0067",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sam504261@gmail.com",
+    "system_key": "2023-07-23^^sam504261@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.070646, 0.607607, 0.0, 0.00338",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sandy.pei24@gmail.com",
+    "system_key": "2023-07-23^^sandy.pei24@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0205, 0.0758, 0.4099, 0.0206, 0.0034",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sankoo1948@yahoo.com.tw",
+    "system_key": "2023-07-23^^sankoo1948@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0235, 0.0839, 0.3742, 0.0256, 0.0068",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "scc.harrison@gmail.com",
+    "system_key": "2023-07-23^^scc.harrison@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.023, 0.0829, 0.0, 0.0, 0.0065",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sdes5317@gmail.com",
+    "system_key": "2023-07-23^^sdes5317@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0113, 0.0517, 0.4578, 0.0098, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sdia.hsu@gmail.com",
+    "system_key": "2023-07-23^^sdia.hsu@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.405093, 0.008776, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "selina0018@yahoo.com.tw",
+    "system_key": "2023-07-23^^selina0018@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0157, 0.0604, 0.3956, 0.0, 0.0015",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "semmer1988@gmail.com",
+    "system_key": "2023-07-23^^semmer1988@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.106826, 0.135233, 0.53016, 0.0, 0.000214",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "serthome@gmail.com",
+    "system_key": "2023-07-23^^serthome@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0114, 0.048, 0.3302, 0.0068, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shelly571026@gmail.com",
+    "system_key": "2023-07-23^^shelly571026@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0398, 0.1489, 0.244, 0.0437, 0.0075",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shenychen@gmail.com",
+    "system_key": "2023-07-23^^shenychen@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0494, 0.1829, 0.1416, 0.043, 0.0028",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shin34wei@gmail.com",
+    "system_key": "2023-07-23^^shin34wei@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.052, 0.1946, 0.124, 0.0475, 0.0022",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shine@gms.ndhu.edu.tw",
+    "system_key": "2023-07-23^^shine@gms.ndhu.edu.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0333, 0.1433, 0.3368, 0.0322, 0.0077",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shinelin82@gmail.com",
+    "system_key": "2023-07-23^^shinelin82@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.047, 0.2139, 0.1593, 0.0521, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shinvie0411@gmail.com",
+    "system_key": "2023-07-23^^shinvie0411@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0271, 0.1018, 0.3895, 0.0306, 0.0064",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shooter741109512@gmail.com",
+    "system_key": "2023-07-23^^shooter741109512@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.034, 0.1238, 0.3084, 0.0403, 0.009",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "shyhjin338549@yahoo.com.tw",
+    "system_key": "2023-07-23^^shyhjin338549@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sick833@gmail.com",
+    "system_key": "2023-07-23^^sick833@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0512, 0.093883, 0.0, 0.025924, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "silence929@gmail.com",
+    "system_key": "2023-07-23^^silence929@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0208, 0.0789, 0.3472, 0.0231, 0.0062",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "simonho22@gmail.com",
+    "system_key": "2023-07-23^^simonho22@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.085932, 0.335913, 0.034439, 0.000769, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sipex168@gmail.com",
+    "system_key": "2023-07-23^^sipex168@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0508, 0.2052, 0.1276, 0.0532, 0.0017",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sixwingangel@gmail.com",
+    "system_key": "2023-07-23^^sixwingangel@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0229, 0.0897, 0.4177, 0.0209, 0.0056",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sk2943@gmail.com",
+    "system_key": "2023-07-23^^sk2943@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.030014, 0.091814, 0.0, 0.046886, 0.080436",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "skchiang@gms.ndhu.edu.tw",
+    "system_key": "2023-07-23^^skchiang@gms.ndhu.edu.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0115, 0.0314, 0.2532, 0.0106, 0.0002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "skemptomliu@yahoo.com.tw",
+    "system_key": "2023-07-23^^skemptomliu@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.109319, 0.0, 0.012321, 0.001652",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "skin814@gmail.com",
+    "system_key": "2023-07-23^^skin814@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0167, 0.0636, 0.41, 0.016, 0.0016",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sls96745200@gmail.com",
+    "system_key": "2023-07-23^^sls96745200@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0197, 0.0785, 0.4284, 0.0198, 0.0023",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "snoopy93505@yahoo.com.tw",
+    "system_key": "2023-07-23^^snoopy93505@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.101614, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "snsn1219@yahoo.com.tw",
+    "system_key": "2023-07-23^^snsn1219@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0326, 0.1259, 0.2805, 0.0419, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "socykuo@hotmail.com",
+    "system_key": "2023-07-23^^socykuo@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.024952, 0.09473, 0.645566, 0.010336, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sogfried@gmail.com",
+    "system_key": "2023-07-23^^sogfried@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.110781, 0.48777, 0.038972, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sonia1029kimo@yahoo.com.tw",
+    "system_key": "2023-07-23^^sonia1029kimo@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.014886, 0.047616, 0.670594, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "std11115@gmail.com",
+    "system_key": "2023-07-23^^std11115@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02, 0.0723, 0.4339, 0.0181, 0.005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "suki.r1118@gmail.com",
+    "system_key": "2023-07-23^^suki.r1118@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0289, 0.1141, 0.3802, 0.0293, 0.0051",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "summer.shih@gmail.com",
+    "system_key": "2023-07-23^^summer.shih@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.025517, 0.274335, 0.0, 0.03451, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sungpinwei@gmail.com",
+    "system_key": "2023-07-23^^sungpinwei@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.080228, 0.117958, 0.115556, 0.023581, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sunny84820@gmail.com",
+    "system_key": "2023-07-23^^sunny84820@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0527, 0.2355, 0.109, 0.0642, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "superwubai@gmail.com",
+    "system_key": "2023-07-23^^superwubai@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0255, 0.0885, 0.3972, 0.0281, 0.0062",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "supra_lan@hotmail.com",
+    "system_key": "2023-07-23^^supra_lan@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.025, 0.105, 0.2673, 0.031, 0.005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "sweet840711@gmail.com",
+    "system_key": "2023-07-23^^sweet840711@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0334, 0.1322, 0.2546, 0.0431, 0.0069",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tandy0714@gmail.com",
+    "system_key": "2023-07-23^^tandy0714@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0318, 0.1258, 0.3211, 0.0378, 0.0075",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tang6358@gmail.com",
+    "system_key": "2023-07-23^^tang6358@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0509, 0.232, 0.108, 0.0549, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tangzk99@gmail.com",
+    "system_key": "2023-07-23^^tangzk99@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0339, 0.1311, 0.2531, 0.0445, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tarcy0819@yahoo.com.tw",
+    "system_key": "2023-07-23^^tarcy0819@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.206163, 0.126897, 0.615305, 0.0, 0.015839",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tc5917@nanshanlife.com.tw",
+    "system_key": "2023-07-23^^tc5917@nanshanlife.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0512, 0.207, 0.1327, 0.0489, 0.0019",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "teddy15b@gmail.com",
+    "system_key": "2023-07-23^^teddy15b@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018835, 0.136205, 0.19556, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "terisa15@ms37.hinet.net",
+    "system_key": "2023-07-23^^terisa15@ms37.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0172, 0.0631, 0.394, 0.0152, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tess3018@gmail.com",
+    "system_key": "2023-07-23^^tess3018@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.103574, 0.488069, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tianyuan192@yahoo.com.tw",
+    "system_key": "2023-07-23^^tianyuan192@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.503745, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tiebob@gmail.com",
+    "system_key": "2023-07-23^^tiebob@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.212245, 0.417998, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tiffany222355@yahoo.com.tw",
+    "system_key": "2023-07-23^^tiffany222355@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0221, 0.0794, 0.3933, 0.0233, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "timail3591@gmail.com",
+    "system_key": "2023-07-23^^timail3591@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0263, 0.0787, 0.3433, 0.0301, 0.0101",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tina198843@gmail.com",
+    "system_key": "2023-07-23^^tina198843@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0447, 0.2522, 0.1114, 0.049, 0.0004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tina9688@gmail.com",
+    "system_key": "2023-07-23^^tina9688@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.025627, 0.0, 0.300952, 8.7e-05, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tony19610324@gmail.com",
+    "system_key": "2023-07-23^^tony19610324@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.012124, 0.0, 0.691226, 0.022488, 0.001093",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tst05106@gmail.com",
+    "system_key": "2023-07-23^^tst05106@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0146, 0.0561, 0.4437, 0.012, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tsungmin@cycu.org.tw",
+    "system_key": "2023-07-23^^tsungmin@cycu.org.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0287, 0.1047, 0.3177, 0.0353, 0.0082",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tsungwenhung2@gmail.com",
+    "system_key": "2023-07-23^^tsungwenhung2@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0205, 0.0752, 0.4189, 0.02, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "tyo.tpe73@gmail.com",
+    "system_key": "2023-07-23^^tyo.tpe73@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.028, 0.1076, 0.3025, 0.035, 0.0064",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "u047961@gmail.com",
+    "system_key": "2023-07-23^^u047961@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0468, 0.1909, 0.0919, 0.0438, 0.0013",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+
+  {
+    "user_id": "u876413@gmail.com",
+    "system_key": "2023-07-23^^u876413@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0368, 0.1125, 0.2979, 0.0301, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "u907031@gmail.com",
+    "system_key": "2023-07-23^^u907031@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.046, 0.15, 0.1699, 0.0501, 0.005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "unique.ner52@msa.hinet.net",
+    "system_key": "2023-07-23^^unique.ner52@msa.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.027453, 0.0, 0.498675, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "v1600@ms36.hinet.net",
+    "system_key": "2023-07-23^^v1600@ms36.hinet.net^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0129, 0.0308, 0.1707, 0.0125, 0.0002",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vance886916738030@gmail.com",
+    "system_key": "2023-07-23^^vance886916738030@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.141176, 0.409316, 0.045071, 0.006658",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vcshox520@gmail.com",
+    "system_key": "2023-07-23^^vcshox520@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0131, 0.0557, 0.4134, 0.0126, 0.0007",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vento.1382@livemail.tw",
+    "system_key": "2023-07-23^^vento.1382@livemail.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.035, 0.1433, 0.3285, 0.0, 0.0081",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vera.huang8698@gmail.com",
+    "system_key": "2023-07-23^^vera.huang8698@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0195, 0.0837, 0.3158, 0.0224, 0.0039",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vicky1095@hotmail.com",
+    "system_key": "2023-07-23^^vicky1095@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.33626, 0.0, 0.18772, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "victor721560@gmail.com",
+    "system_key": "2023-07-23^^victor721560@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.033984, 0.154062, 0.481919, 0.039644, 0.008916",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "victory11178@gmail.com",
+    "system_key": "2023-07-23^^victory11178@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0307, 0.0, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vincentlin503 @gmail.com",
+    "system_key": "2023-07-23^^vincentlin503 @gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0191, 0.0706, 0.3866, 0.0197, 0.0032",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vinchenx@gmail.com",
+    "system_key": "2023-07-23^^vinchenx@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0189, 0.0695, 0.3677, 0.0196, 0.004",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vivianle91606@gmail.com",
+    "system_key": "2023-07-23^^vivianle91606@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.02, 0.0827, 0.5017, 0.0136, 0.0023",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vivy021234@gmail.com",
+    "system_key": "2023-07-23^^vivy021234@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.017, 0.0627, 0.4103, 0.0154, 0.0027",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "vn513531@gmail.com",
+    "system_key": "2023-07-23^^vn513531@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0347, 0.1276, 0.2757, 0.043, 0.0084",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "wanchun27@yahoo.com.tw",
+    "system_key": "2023-07-23^^wanchun27@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0239, 0.0913, 0.331, 0.0278, 0.0062",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "waynechao651009@gmail.com",
+    "system_key": "2023-07-23^^waynechao651009@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0256, 0.0902, 0.4035, 0.0278, 0.0055",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "weichun@aam-cap.com",
+    "system_key": "2023-07-23^^weichun@aam-cap.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0448, 0.1634, 0.1951, 0.0408, 0.0045",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "weiger.weng@gmail.com",
+    "system_key": "2023-07-23^^weiger.weng@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.021719, 0.0, 0.664738, 0.054124, 0.017753",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "weiplus0114@gmail.com",
+    "system_key": "2023-07-23^^weiplus0114@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.026338",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "wen.chiu@cocolong.com.tw",
+    "system_key": "2023-07-23^^wen.chiu@cocolong.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.604395, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "wilson@insynerger.com",
+    "system_key": "2023-07-23^^wilson@insynerger.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0145, 0.0587, 0.4057, 0.0142, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "wkb@wkb.idv.tw",
+    "system_key": "2023-07-23^^wkb@wkb.idv.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0244, 0.0882, 0.4067, 0.0264, 0.0048",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "wujane1617@gmail.com",
+    "system_key": "2023-07-23^^wujane1617@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.041458, 0.40592, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "xsc801@yahoo.com",
+    "system_key": "2023-07-23^^xsc801@yahoo.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0136, 0.0564, 0.4003, 0.0131, 0.0011",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "xu3cl4m3@hotmail.com",
+    "system_key": "2023-07-23^^xu3cl4m3@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0483, 0.1771, 0.187, 0.0417, 0.003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "xxyoyoxx24@gmail.com",
+    "system_key": "2023-07-23^^xxyoyoxx24@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0472, 0.2172, 0.1651, 0.0515, 0.0014",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "y2j03161111@gmail.com",
+    "system_key": "2023-07-23^^y2j03161111@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0418, 0.1164, 0.235, 0.0414, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yabe305287@gmail.com",
+    "system_key": "2023-07-23^^yabe305287@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0422, 0.2634, 0.1242, 0.0424, 0.0003",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yale5858@163.com",
+    "system_key": "2023-07-23^^yale5858@163.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.240146, 0.0, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yalehsu5858@gmail.com",
+    "system_key": "2023-07-23^^yalehsu5858@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.003306, 0.0, 0.42985, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yanrung.d@gmail.com",
+    "system_key": "2023-07-23^^yanrung.d@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0412, 0.2482, 0.1547, 0.0416, 0.0005",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yayundeng@gmail.com",
+    "system_key": "2023-07-23^^yayundeng@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0209, 0.083, 0.5169, 0.0138, 0.0012",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ych29125766@hotmail.com",
+    "system_key": "2023-07-23^^ych29125766@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0242, 0.084, 0.3809, 0.0266, 0.0053",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ycishere@yahoo.com.tw",
+    "system_key": "2023-07-23^^ycishere@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.010146, 0.168295, 0.262376, 0.036965, 0.009406",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ycw0426@gmail.com",
+    "system_key": "2023-07-23^^ycw0426@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0232, 0.0898, 0.3235, 0.027, 0.0057",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yen1053@gmail.com",
+    "system_key": "2023-07-23^^yen1053@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0261, 0.095, 0.3801, 0.0289, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yenny.pao@yahoo.com.tw",
+    "system_key": "2023-07-23^^yenny.pao@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0478, 0.1664, 0.1794, 0.0494, 0.0055",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yi_yangtw@yahoo.com.tw",
+    "system_key": "2023-07-23^^yi_yangtw@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0219, 0.0944, 0.2915, 0.0274, 0.0048",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yiping@mail.sinotech-eng.com",
+    "system_key": "2023-07-23^^yiping@mail.sinotech-eng.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.114218, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yixuan01076721@gmail.com",
+    "system_key": "2023-07-23^^yixuan01076721@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.041, 0.166, 0.276, 0.038, 0.0068",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yjsoleil@gmail.com",
+    "system_key": "2023-07-23^^yjsoleil@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0761, 0.1997, 0.103, 0.0754, 0.0016",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "ylyue1234@yahoo.com.tw",
+    "system_key": "2023-07-23^^ylyue1234@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.189007, 0.363418, 0.329807, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yoweichan@gmail.com",
+    "system_key": "2023-07-23^^yoweichan@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.033, 0.1281, 0.3442, 0.0363, 0.0079",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yu122579@yahoo.com.tw",
+    "system_key": "2023-07-23^^yu122579@yahoo.com.tw^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0283, 0.1092, 0.3706, 0.0308, 0.0081",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yuchen570720@gmail.com",
+    "system_key": "2023-07-23^^yuchen570720@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0141, 0.0565, 0.4057, 0.0137, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yuching94228@gmail.com",
+    "system_key": "2023-07-23^^yuching94228@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0383, 0.1547, 0.3109, 0.0335, 0.0068",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yuhuangchieh@gmail.com",
+    "system_key": "2023-07-23^^yuhuangchieh@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0, 0.0, 0.0, 0.0, 0.016832",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yuhuangchieh@outlook.com",
+    "system_key": "2023-07-23^^yuhuangchieh@outlook.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.035776, 0.0, 0.118606, 0.0, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yumei6124@gmail.com",
+    "system_key": "2023-07-23^^yumei6124@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0344, 0.1378, 0.282, 0.0414, 0.0073",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yumin.liang@gmail.com",
+    "system_key": "2023-07-23^^yumin.liang@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0439, 0.2512, 0.1349, 0.043, 0.0006",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yunchung2018@hotmail.com",
+    "system_key": "2023-07-23^^yunchung2018@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.054535, 0.098809, 0.444505, 0.034122, 0.011049",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yunismine@gmail.com",
+    "system_key": "2023-07-23^^yunismine@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.018447, 0.0, 0.514234, 0.03421, 0.0",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yusenc85@gmail.com",
+    "system_key": "2023-07-23^^yusenc85@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0247, 0.095, 0.3212, 0.0295, 0.0063",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "yzsu03@hotmail.com",
+    "system_key": "2023-07-23^^yzsu03@hotmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.028, 0.1074, 0.3635, 0.0312, 0.0074",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "zeroxlj@gmail.com",
+    "system_key": "2023-07-23^^zeroxlj@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0193, 0.0836, 0.3072, 0.023, 0.0042",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "zhanlnwa@gmail.com",
+    "system_key": "2023-07-23^^zhanlnwa@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0491, 0.173, 0.1601, 0.0504, 0.0046",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "zhaoxue.yuki@gmail.com",
+    "system_key": "2023-07-23^^zhaoxue.yuki@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0138, 0.0515, 0.3535, 0.0133, 0.001",
+    "appliance_order": "2, 3, 4, 5, 6"
+  },
+  {
+    "user_id": "zzsda39@gmail.com",
+    "system_key": "2023-07-23^^zzsda39@gmail.com^^allday",
+    "report_time": "23/7/2023 0:00",
+    "update_time": "24/7/2023 2:00",
+    "appliance_ratio": "0.0183, 0.0696, 0.3533, 0.0196, 0.0025",
+    "appliance_order": "2, 3, 4, 5, 6"
+  }
+]

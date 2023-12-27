@@ -23,6 +23,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var pElement = document.querySelector('.tab-pane p');
   var nilmTable = document.querySelector('.nilm_table');
   var downloadTable = document.querySelector('.download_table');
+  var warningTable = document.querySelector('.warning_table');
   var serveIMG = document.querySelector('.serve_img');
   var tabContent = document.querySelector('.tab-content');
 
@@ -34,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function () {
           // delete previous icon class
           icon.classList.remove('fa-solid');
           icon.classList.remove('fa-download');
-          callPostAPI(index + 1); // API
           // 替换内容
           setTimeout(() => {
             tabContent.classList.remove('end');
@@ -46,8 +46,6 @@ document.addEventListener('DOMContentLoaded', function () {
           // delete previous icon class
           icon.classList.remove('fa-brands');
           icon.classList.remove('fa-stack-overflow');
-          callPostAPI(index + 1); // API
-
           // 替换内容
           setTimeout(() => {
             downloadTable.classList.add('none');
@@ -56,24 +54,25 @@ document.addEventListener('DOMContentLoaded', function () {
           break;
         case 2:
           // delete previous icon class
-
           icon.classList.remove('fa-solid');
-          icon.classList.remove('fa-calculator');
-          callThreeGetAPI();
-
+          icon.classList.remove('fa-triangle-exclamation');
           // 替换内容
           setTimeout(() => {
             nilmTable.classList.add('none');
-            serveIMG.classList.remove('none');
+            warningTable.classList.remove('none');
           }, 3000);
 
           break;
-        // case 3:
-        //   // delete previous icon class
-        //   icon.classList.remove('fa-bolt');
-        //   icon.classList.remove('fa-retweet');
-        //   callPostAPI(index); // API
-        //   break;
+        case 3:
+          icon.classList.remove('fa-solid');
+          icon.classList.remove('fa-calculator');
+
+          // 替换内容
+          setTimeout(() => {
+            warningTable.classList.add('none');
+            serveIMG.classList.remove('none');
+          }, 3000);
+          break;
         default:
           break;
       }
@@ -152,40 +151,118 @@ function callPostAPI(num) {
   var requestBody = { key: 'value' };
 
   // Example of a POST request using Axios
-  axios
-    .post(apiUrl, requestBody)
-    .then((response) => {
-      console.log('API response:', response.data);
-      // Handle the API response as needed
-    })
-    .catch((error) => {
-      console.error('API error:', error);
-      // Handle the error as needed
-    });
+  // axios
+  //   .post(apiUrl, requestBody)
+  //   .then((response) => {
+  //     console.log('API response:', response.data);
+  //     // Handle the API response as needed
+  //   })
+  //   .catch((error) => {
+  //     console.error('API error:', error);
+  //     // Handle the error as needed
+  //   });
 }
 
 // 服務運算: 傑
 function callThreeGetAPI() {
   var apiUrl = `http://43.201.186.180:8084/demo_user?user_type=1`;
-  axios
-    .get(apiUrl)
-    .then((response) => {
-      console.log('API response:', response.data);
-    })
-    .catch((error) => {
-      console.error('API error:', error);
-    });
+  // axios
+  //   .get(apiUrl)
+  //   .then((response) => {
+  //     console.log('API response:', response.data);
+  //   })
+  //   .catch((error) => {
+  //     console.error('API error:', error);
+  //   });
 }
 
 // reset: 傑
 function callGetResetAPI(num) {
   var apiUrl = `http://43.201.186.180:8084/demo_user?user_type=2`;
-  axios
-    .get(apiUrl)
-    .then((response) => {
-      console.log('API response:', response.data);
-    })
-    .catch((error) => {
-      console.error('API error:', error);
-    });
+  // axios
+  //   .get(apiUrl)
+  //   .then((response) => {
+  //     console.log('API response:', response.data);
+  //   })
+  //   .catch((error) => {
+  //     console.error('API error:', error);
+  //   });
 }
+
+// 001 API
+// Function to populate the table with data
+function populateTable001(dataArray) {
+  let tableBody = document.querySelector('.download_table tbody');
+
+  dataArray.forEach(function (data) {
+    let row = tableBody.insertRow();
+    row.insertCell(0).textContent = data.User_ID;
+    row.insertCell(1).textContent = data.w;
+    row.insertCell(2).textContent = data.reporttime;
+    row.insertCell(3).textContent = data.olid;
+    row.insertCell(4).textContent = data.channelid;
+  });
+}
+
+// Call the function to populate the table with the array data
+// Fetch the JSON file
+fetch('./001.json')
+  .then((response) => response.json())
+  .then((dataArray) => {
+    // Call the function to populate the table with the fetched data
+    populateTable001(dataArray);
+  })
+  .catch((error) => console.error('Error loading JSON:', error));
+
+// 002 API
+// Function to populate the table with data
+function populateTable002(dataArray) {
+  let tableBody001 = document.querySelector('.nilm_table tbody');
+
+  dataArray.forEach(function (data) {
+    let row = tableBody001.insertRow();
+    row.insertCell(0).textContent = data.user_id;
+    // row.insertCell(1).textContent = data.system_key;
+    row.insertCell(1).textContent = data.report_time;
+    row.insertCell(2).textContent = data.update_time;
+    row.insertCell(3).textContent = data.appliance_ratio;
+    row.insertCell(4).textContent = data.appliance_order;
+  });
+}
+
+// Call the function to populate the table with the array data
+// Fetch the JSON file
+fetch('./002.json')
+  .then((response) => response.json())
+  .then((dataArray) => {
+    // Call the function to populate the table with the fetched data
+    populateTable002(dataArray);
+  })
+  .catch((error) => console.error('Error loading JSON:', error));
+
+// 003API
+// Function to populate the table with data
+function populateTable003(dataArray) {
+  let tableBody001 = document.querySelector('.warning_table tbody');
+
+  dataArray.forEach(function (data) {
+    let row = tableBody001.insertRow();
+    row.insertCell(0).textContent = data.user_id;
+    row.insertCell(1).textContent = data.report_time;
+    // row.insertCell(2).textContent = data.system_key;
+    row.insertCell(2).textContent = data.alert;
+    row.insertCell(3).textContent = data.period;
+    // row.insertCell(5).textContent = data.baseline;
+    // row.insertCell(6).textContent = data.reportline;
+  });
+}
+
+// Call the function to populate the table with the array data
+// Fetch the JSON file
+fetch('./003.json')
+  .then((response) => response.json())
+  .then((dataArray) => {
+    // Call the function to populate the table with the fetched data
+    populateTable003(dataArray);
+  })
+  .catch((error) => console.error('Error loading JSON:', error));
