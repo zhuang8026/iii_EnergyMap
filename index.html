@@ -1,0 +1,1123 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>住宅資料庫數據總量</title>
+    <script src="https://unpkg.com/d3@5.6.0/dist/d3.min.js"></script>
+    <script src="https://unpkg.com/topojson@3.0.2/dist/topojson.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <link rel="stylesheet" href="event.css" />
+    <script src="index.js" defer></script>
+    <script src="event.js" defer></script>
+  </head>
+  <style>
+    body {
+      background: #3a8fb7;
+      margin: 0;
+      overflow: hidden; /* 隱藏可能的滾動條 */
+      font: normal 11px 'Helvetica Neue', Helvetica, sans-serif;
+    }
+
+    svg {
+      display: block;
+    }
+
+    .county {
+      fill: #ebeefa;
+      stroke: #6e75a4;
+      stroke-width: 0.1px;
+    }
+
+    .county:hover {
+      fill: lightgray;
+      color: #71eeec;
+      cursor: pointer;
+    }
+
+    .county-label {
+      user-select: none;
+    }
+
+    .custom-rectangle {
+      border-radius: 10px;
+    }
+
+    .logo {
+      width: 200px;
+      padding: 0 20px;
+    }
+    .logo img {
+      width: 100%;
+    }
+    #countp {
+      position: fixed;
+      top: 27px;
+      right: 270px;
+      /* width: auto; */
+      /* height: auto; */
+      color: #ebeefa;
+      cursor: pointer;
+    }
+    #countp .content {
+      background: #006284;
+      font-size: 100px;
+      padding: 0 20px;
+      border-radius: 0 0 0 40px;
+      box-shadow: 6px 6px 5px 2px rgba(0, 0, 0, 0.3);
+    }
+    #countp span {
+      font-size: 20px;
+      margin: 0;
+      padding: 0;
+    }
+    #countp .title {
+      font-size: 20px;
+    }
+  </style>
+  <body>
+    <div id="taiwan_map">
+      <div class="logo">
+        <img src="./img/iii_name.png" alt="logo" />
+      </div>
+      <div id="countp">
+        <!-- <div class="content">61,987,654,321<span>/筆</span></div> -->
+        <!-- <div class="title">總資料量</div> -->
+        <div class="flipContainer">
+          <div class="flip">住宅資料庫數據總量</div>
+
+          <ul class="flip billion">
+            <li id="billion_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="billion_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip TTmillion">
+            <li id="TTmillion_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="TTmillion_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip tenmillion">
+            <li id="tenmillion_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenmillion_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip millionPlay">
+            <li id="millionPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="millionPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip hThousandPlay">
+            <li id="hThousandPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="hThousandPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip tThousandPlay">
+            <li id="tThousandPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="tThousandPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip thousandPlay">
+            <li id="thousandPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="thousandPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip hundredPlay">
+            <li id="hundredPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="hundredPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip tenPlay">
+            <li id="tenPlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="shadow"></div>
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="tenPlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+
+          <ul class="flip onePlay">
+            <li id="onePlay_0">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">0</div>
+                </div>
+                <div class="down">
+                  <div class="inn">0</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_1">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">1</div>
+                </div>
+                <div class="down">
+                  <div class="inn">1</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_2">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">2</div>
+                </div>
+                <div class="down">
+                  <div class="inn">2</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_3">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">3</div>
+                </div>
+                <div class="down">
+                  <div class="inn">3</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_4">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">4</div>
+                </div>
+                <div class="down">
+                  <div class="inn">4</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_5">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">5</div>
+                </div>
+                <div class="down">
+                  <div class="inn">5</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_6">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">6</div>
+                </div>
+                <div class="down">
+                  <div class="inn">6</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_7">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">7</div>
+                </div>
+                <div class="down">
+                  <div class="inn">7</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_8">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">8</div>
+                </div>
+                <div class="down">
+                  <div class="inn">8</div>
+                </div>
+              </a>
+            </li>
+            <li id="onePlay_9">
+              <a href="#">
+                <div class="up">
+                  <div class="inn">9</div>
+                </div>
+                <div class="down">
+                  <div class="inn">9</div>
+                </div>
+              </a>
+            </li>
+          </ul>
+          <div class="flip_count">/筆</div>
+        </div>
+      </div>
+      <svg></svg>
+    </div>
+  </body>
+</html>

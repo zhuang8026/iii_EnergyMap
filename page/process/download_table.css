@@ -1,0 +1,61 @@
+.download_table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+}
+.download_table th {
+  text-decoration: underline;
+}
+.download_table th,
+.download_table td {
+  padding: 12px 5px;
+  text-align: left;
+}
+.download_table td:nth-child(1),
+.download_table th:nth-child(1) {
+  width: 200px;
+}
+.download_table td:nth-child(2),
+.download_table th:nth-child(2) {
+  width: 150px;
+}
+.download_table td:nth-child(3),
+.download_table th:nth-child(3) {
+  width: 200px;
+}
+.download_table td:nth-child(4),
+.download_table th:nth-child(4) {
+  width: 150px;
+}
+.download_table td:nth-child(5),
+.download_table th:nth-child(5) {
+  width: 400px;
+}
+
+.download_table thead {
+  background-color: #333;
+  color: #fdfdfd;
+}
+.download_table thead tr {
+  display: block;
+  position: relative;
+}
+.download_table tbody {
+  display: block;
+  overflow: auto;
+  width: 100%;
+  min-height: 150px;
+  max-height: 250px;
+}
+.download_table tbody tr:nth-child(even) {
+  background-color: #ddd;
+}
+.old_ie_wrapper {
+  height: 300px;
+  width: 750px;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.old_ie_wrapper tbody {
+  height: auto;
+}

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>資料分析工具</title>
+    <script
+      src="https://kit.fontawesome.com/49e8b37aab.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./reset.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link rel="stylesheet" href="./table.css" />
+    <link rel="stylesheet" href="./download_table.css" />
+  </head>
+  <body>
+    <header>
+      <a href="../../index.html">
+        <img src="../../img/iii_name.png" alt="" />
+      </a>
+    </header>
+    <div class="main">
+      <div class="title">資料分析工具</div>
+      <section class="design-process-section" id="process-tab">
+        <div class="container">
+          <div class="row">
+            <div class="col-xs-12 flex">
+              <ul class="add_icon">
+                <!-- 住戶家庭 -->
+                <li>
+                  <div class="inner home">
+                    <!-- normal -->
+                    <i class="icon fa-solid fa-house-chimney-user"></i>
+                  </div>
+                  <p>住戶家庭</p>
+                </li>
+                <li class="arrow" style="color: #f7c242">
+                  <i class="fa-solid fa-arrow-right-long"></i>
+                </li>
+                <!-- 雲端數據 -->
+                <!-- <li>
+                  <div class="inner cloud">
+                    <i class="icon fa-solid fa-cloud-arrow-up"></i>
+                  </div>
+                  <p>雲端數據</p>
+                </li>
+                <li class="arrow" style="color: #33a6b8">
+                  <i class="fa-solid fa-arrow-right-long"></i>
+                </li> -->
+              </ul>
+
+              <ul class="nav nav-tabs process-model more-icon-preocess">
+                <li class="presentation">
+                  <div class="inner">
+                    <!-- normal -->
+                    <!-- <i class="icon fa-solid fa-download"></i> -->
+                    <i class="icon fa-solid fa-cloud-arrow-up"></i>
+                    <!-- <i class="icon fas fa-cog"></i> -->
+                  </div>
+                  <p>雲端數據</p>
+                </li>
+
+                <li class="presentation">
+                  <div class="inner">
+                    <!-- normal -->
+                    <i class="icon fa-brands fa-stack-overflow disable"></i>
+                  </div>
+                  <p>NILM電器拆解</p>
+                </li>
+
+                <li class="presentation">
+                  <div class="inner">
+                    <!-- normal -->
+                    <i class="icon fa-solid fa-calculator disable"></i>
+                  </div>
+                  <p>服務運算</p>
+                </li>
+
+                <!-- <li class="presentation">
+                  <div class="inner">
+                    <i class="icon fa-solid fa-retweet disable"></i>
+                  </div>
+                  <p>AMI資料格式轉換</p>
+                </li> -->
+              </ul>
+            </div>
+            <div class="btn">
+              <button class="bubbly-button" onclick="resetBrowser()">
+                Reset
+              </button>
+            </div>
+            <!-- Tab panes -->
+            <!-- <div class="tab-content">
+                <div class="tab-pane">
+                  <div class="design-process-content">
+                    <h3 class="semi-bold"></h3>
+                    <p>暫無說明資料</p>
+                  </div>
+                </div>
+              </div> -->
+            <!-- <div class="tab-content end"> -->
+            <div class="tab-content end">
+              <table class="download_table none">
+                <thead>
+                  <tr>
+                    <th>User ID</th>
+                    <th>W</th>
+                    <th>reporttime</th>
+                    <th>olid</th>
+                    <th>channelid</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>921.84</td>
+                    <td>2023/7123 00:01</td>
+                    <td>0</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>56.36</td>
+                    <td>2023/7123 00:02</td>
+                    <td>3</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>952.4233333</td>
+                    <td>2023/7123 00:02</td>
+                    <td>0</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>56.37873333</td>
+                    <td>2023/7123 00:03</td>
+                    <td>3</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>983.0066667</td>
+                    <td>2023/7123 00:03</td>
+                    <td>0</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+                  <tr>
+                    <td>bn1907@hotmail.com</td>
+                    <td>56.39746667</td>
+                    <td>2023/7123 00:04</td>
+                    <td>3</td>
+                    <td>BN900004EDFFFED7A9A8</td>
+                  </tr>
+                </tbody>
+              </table>
+              <table class="fixed_headers nilm_table none">
+                <thead>
+                  <tr>
+                    <th>user_id</th>
+                    <th>system_key</th>
+                    <th>report_time</th>
+                    <th>update_time</th>
+                    <th>kwh</th>
+                    <th>appliance_kwh</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>demo2@iii.org.tw</td>
+                    <td>2023-07-04^^demo2@iii.org.tw^^daily_result</td>
+                    <td>2023/7/4</td>
+                    <td>2023/7/5</td>
+                    <td>23</td>
+                    <td>0.017,0.0765.0.4484,0.0158,0.0009</td>
+                  </tr>
+
+                  <tr>
+                    <td>demo1@iii.org.tw</td>
+                    <td>2023-07-04^^demol@ii.org.tw^^daily_result</td>
+                    <td>2023/7/4</td>
+                    <td>2023/7/5</td>
+                    <td>14</td>
+                    <td>0.0272,0.0882,0.3742,0.0309,0.0095</td>
+                  </tr>
+
+                  <tr>
+                    <td>demo1@iii.org.tw</td>
+                    <td>2023-07-02^^demol@iii.org.tw/^^daily_result</td>
+                    <td>2023/7/2</td>
+                    <td>2023/7/3</td>
+                    <td>22</td>
+                    <td>0.0169.0.0665.0.4696.0.015.0.0018</td>
+                  </tr>
+
+                  <tr>
+                    <td>demo2@iii.org.tw</td>
+                    <td>2023-07-02^^demo2@iii.org.tw^^daily_result</td>
+                    <td>2023/7/2</td>
+                    <td>2023/7/3</td>
+                    <td>18</td>
+                    <td>0.0249.0.0879.0.3988.0.027.0.0052</td>
+                  </tr>
+
+                  <tr>
+                    <td>demo1@iii.org.tw</td>
+                    <td>2023-07-03^^demol@iii.org.tw^^daily_resulttd</td>
+                    <td>2023/7/3</td>
+                    <td>2023/7/4</td>
+                    <td>22</td>
+                    <td>0.0174.0.0707.0.4302,0.0169.0.0015</td>
+                  </tr>
+
+                  <tr>
+                    <td>demo2@iii.org.tw</td>
+                    <td>2023-07-03^^demo2@iii.org.tw^^daily result</td>
+                    <td>2023/7/3</td>
+                    <td>2023/7/4</td>
+                    <td>22</td>
+                    <td>0.0182.0.0784.0.4589.0.0174.0.0013</td>
+                  </tr>
+                </tbody>
+              </table>
+
+              <div class="serve_img none">
+                <div>
+                  <img src="../../img/1.png" alt="" />
+                  <p>正常用電分析結果</p>
+                </div>
+                <div>
+                  <img src="../../img/2.png" alt="" />
+                  <p>異常用電分析結果</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  </body>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="./index.js"></script>
+</html>
