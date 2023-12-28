@@ -8,83 +8,84 @@
     <link rel="stylesheet" href="event.css" />
     <script src="index.js" defer></script>
     <script src="event.js" defer></script>
+    <style>
+      body {
+        background: #3a8fb7;
+        margin: 0;
+        overflow: hidden; /* 隱藏可能的滾動條 */
+        font: normal 11px 'Helvetica Neue', Helvetica, sans-serif;
+      }
+
+      svg {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+      }
+
+      .county {
+        fill: #ebeefa;
+        stroke: #6e75a4;
+        stroke-width: 0.1px;
+      }
+
+      .county:hover {
+        fill: lightgray;
+        color: #71eeec;
+        cursor: pointer;
+      }
+
+      .county-label {
+        user-select: none;
+      }
+
+      .custom-rectangle {
+        border-radius: 10px;
+      }
+
+      .logo {
+        width: 200px;
+        padding: 0 20px;
+      }
+      .logo img {
+        width: 100%;
+      }
+      #countp {
+        position: fixed;
+        bottom: 27px;
+        right: 187px;
+        z-index: 1;
+        /* width: auto; */
+        /* height: auto; */
+        color: #ebeefa;
+        cursor: pointer;
+      }
+      #countp .content {
+        background: #006284;
+        font-size: 100px;
+        padding: 0 20px;
+        border-radius: 0 0 0 40px;
+        box-shadow: 6px 6px 5px 2px rgba(0, 0, 0, 0.3);
+      }
+      #countp span {
+        font-size: 20px;
+        margin: 0;
+        padding: 0;
+      }
+      #countp .title {
+        font-size: 20px;
+      }
+      #countp .countp_title {
+        font-size: 20px;
+        position: absolute;
+        top: -25px;
+      }
+      #countp .sep {
+        font-size: 30px;
+      }
+    </style>
   </head>
-  <style>
-    body {
-      background: #3a8fb7;
-      margin: 0;
-      overflow: hidden; /* 隱藏可能的滾動條 */
-      font: normal 11px 'Helvetica Neue', Helvetica, sans-serif;
-    }
 
-    svg {
-      display: block;
-      position: fixed;
-      top: 0;
-      left: 0;
-    }
-
-    .county {
-      fill: #ebeefa;
-      stroke: #6e75a4;
-      stroke-width: 0.1px;
-    }
-
-    .county:hover {
-      fill: lightgray;
-      color: #71eeec;
-      cursor: pointer;
-    }
-
-    .county-label {
-      user-select: none;
-    }
-
-    .custom-rectangle {
-      border-radius: 10px;
-    }
-
-    .logo {
-      width: 200px;
-      padding: 0 20px;
-    }
-    .logo img {
-      width: 100%;
-    }
-    #countp {
-      position: fixed;
-      bottom: 27px;
-      right: 187px;
-      z-index: 1;
-      /* width: auto; */
-      /* height: auto; */
-      color: #ebeefa;
-      cursor: pointer;
-    }
-    #countp .content {
-      background: #006284;
-      font-size: 100px;
-      padding: 0 20px;
-      border-radius: 0 0 0 40px;
-      box-shadow: 6px 6px 5px 2px rgba(0, 0, 0, 0.3);
-    }
-    #countp span {
-      font-size: 20px;
-      margin: 0;
-      padding: 0;
-    }
-    #countp .title {
-      font-size: 20px;
-    }
-    #countp .countp_title {
-      font-size: 20px;
-      position: absolute;
-      top: -25px;
-    }
-    #countp .sep {
-      font-size: 30px;
-    }
-  </style>
   <body>
     <div id="taiwan_map">
       <div class="logo">
