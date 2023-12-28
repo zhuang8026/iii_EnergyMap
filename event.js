@@ -17,6 +17,14 @@ let data = {
   count: storedData,
 };
 
+let count_loading = document.getElementById('loading');
+let countp = document.getElementById('countp');
+
+setTimeout(() => {
+  count_loading.classList.add('none');
+  countp.classList.remove('none');
+}, 4000);
+
 jQuery(document).ready(function ($) {
   //TODO: Implement this getJSON call when Sean puts the JSON file in the app.
   //$.getJSON('DAFILE.json', function(data) {

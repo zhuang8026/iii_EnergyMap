@@ -50,6 +50,26 @@
       .logo img {
         width: 100%;
       }
+      #loading {
+        position: fixed;
+        bottom: 27px;
+        right: 100px;
+        z-index: 1;
+        font-size: 40px;
+        color: #ebeefa;
+        animation: blink 1s infinite; /* 指定动画名称、持续时间和重复次数 */
+      }
+      @keyframes blink {
+        0% {
+          opacity: 1;
+        }
+        50% {
+          opacity: 0;
+        }
+        100% {
+          opacity: 1;
+        }
+      }
       #countp {
         position: fixed;
         bottom: 27px;
@@ -83,6 +103,10 @@
       #countp .sep {
         font-size: 30px;
       }
+
+      .none {
+        display: none !important;
+      }
     </style>
   </head>
 
@@ -91,9 +115,8 @@
       <div class="logo">
         <img src="./img/iii_name.png" alt="logo" />
       </div>
-      <div id="countp">
-        <!-- <div class="content">61,987,654,321<span>/筆</span></div> -->
-        <!-- <div class="title">總資料量</div> -->
+      <div id="loading">數據總量加載中...</div>
+      <div id="countp" class="none">
         <div class="flipContainer">
           <div class="countp_title">住宅資料庫數據總量/筆數</div>
 
