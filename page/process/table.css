@@ -11,13 +11,9 @@
   padding: 12px 5px;
   text-align: left;
 }
-/* .fixed_headers td:nth-child(0),
-.fixed_headers th:nth-child(0) {
-  min-width: 5%;
-} */
 .fixed_headers td:nth-child(1),
 .fixed_headers th:nth-child(1) {
-  width: 25vw;
+  min-width: 20vw;
 }
 .fixed_headers td:nth-child(2),
 .fixed_headers th:nth-child(2) {
