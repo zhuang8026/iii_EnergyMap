@@ -21,7 +21,7 @@ month_option = {
     },
   },
   legend: {
-    data: ['1分鐘/筆', '數據二'],
+    data: ['1分鐘/筆'],
     textStyle: {
       fontSize: 20, // 调整图例文字的字体大小
     },
@@ -60,7 +60,7 @@ month_option = {
   },
   series: [
     {
-      name: '1分鐘/筆',
+      name: '', // ex: 1分鐘/筆
       type: 'line',
       stack: 'Total',
       areaStyle: {},

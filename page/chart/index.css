@@ -20,8 +20,17 @@ header img {
 
 .title {
   font-size: 26px;
+  color: #4d5358;
+}
+
+.month-title {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: normal;
+  font-size: 20px;
   color: #4e4e4e;
 }
+
 .left {
   width: 100%;
   margin: 30px 0;
