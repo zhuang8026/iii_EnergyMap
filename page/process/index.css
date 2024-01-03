@@ -313,6 +313,9 @@ header img {
   display: none;
 }
 
+.no_event {
+  pointer-events: none;
+}
 @media screen and (max-width: 1600px) {
   /* 在寬度小於600px時的樣式 */
   .presentation {

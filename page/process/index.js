@@ -97,6 +97,7 @@ document.addEventListener('DOMContentLoaded', function () {
           // Remove current icon class and add the next icon class
           icon.classList.remove('fa-cog');
           icon.classList.add('fa-check'); // Change this to the class of your B icon
+          icon.classList.add('no_event'); // Change this to the class of your B icon
 
           // Set color to red during loading
           icon.style.color = '#57b87b';
