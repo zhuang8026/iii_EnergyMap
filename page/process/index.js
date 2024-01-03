@@ -114,8 +114,8 @@ document.addEventListener('DOMContentLoaded', function () {
             var iconA = icons[index].getBoundingClientRect();
             var iconB = icons[index + 1].getBoundingClientRect();
             line.style.width = iconB.left - iconA.right + 'px';
-            line.style.left = iconA.right + 'px';
-            line.style.top = iconA.top + iconA.height / 2 - 15 + 'px'; // Adjust for line height (30px / 2)
+            line.style.left = iconA.right + window.scrollX + 'px';
+            line.style.top = iconA.top + window.scrollY + iconA.height / 2 - 15 + 'px'; // Adjust for line height (30px / 2)
             icons[index + 1].classList.remove('disable');
           }
 
@@ -132,8 +132,9 @@ document.addEventListener('DOMContentLoaded', function () {
   });
 });
 
+// 監聽視窗大小改變事件
+
 function resetBrowser() {
-  callGetResetAPI();
   // 使用 location.reload() 刷新页面
   location.reload();
 }
