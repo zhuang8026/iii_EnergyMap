@@ -11,6 +11,8 @@ function updateCount() {
   // 这里可以添加更新 UI 或其他操作的代码
 }
 
+updateCount();
+
 // 设置定时器，每3秒钟调用一次 updateCount 函数
 setInterval(updateCount, 3000);
 let data = {
@@ -285,4 +287,4 @@ setTimeout(() => {
     }, 3000);
 
   });
-}, 4100);
+}, 4010);
