@@ -1,7 +1,7 @@
 // 从 localStorage 中获取存储的值
 let storedData = localStorage.getItem('count');
 // 将存储的值转换为数字，如果为空则使用默认值
-let count = parseInt(storedData, 10) || 6883600956;
+let count = parseInt(storedData, 10) || 6627997351;
 
 // 更新计数器的值，并将其保存到 localStorage
 function updateCount() {
