@@ -9,7 +9,7 @@ let month_option;
 
 month_option = {
   title: {
-    text: '數量(億)', // 收集資料筆數
+    text: '累計(億)', // 收集資料筆數
   },
   tooltip: {
     trigger: 'axis',
@@ -48,7 +48,7 @@ month_option = {
   },
   yAxis: {
     type: 'value',
-    // name: '數量（億）', // 在这里添加单位文字
+    // name: '累計（億）', // 在这里添加单位文字
     axisLabel: {
       fontSize: 20, // 调整 Y 轴文字的字体大小
       formatter: function (value, index) {
