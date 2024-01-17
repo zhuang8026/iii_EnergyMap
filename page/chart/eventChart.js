@@ -54,7 +54,7 @@ month_option = {
       formatter: function (value, index) {
         // 将刻度值除以相应的倍数，使其变成两位数
         // return (value / 10000000).toFixed(2); // 1,000,000 为 10^6
-        return Math.round(value / 10000000); // 或者使用 parseInt(value / 1000000)
+        return Math.round(value / 100000000); // 或者使用 parseInt(value / 1000000)
       },
     },
   },

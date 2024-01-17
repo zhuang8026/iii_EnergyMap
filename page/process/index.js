@@ -22,6 +22,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var h3Element = document.querySelector('.tab-pane h3');
   var pElement = document.querySelector('.tab-pane p');
   var nilmTable = document.querySelector('.nilm_table');
+  var nilmTableDesc = document.querySelector('.nilm_table_desc');
   var downloadTable = document.querySelector('.download_table');
   var warningTable = document.querySelector('.warning_table');
   var serveIMG = document.querySelector('.serve_img');
@@ -50,6 +51,8 @@ document.addEventListener('DOMContentLoaded', function () {
           setTimeout(() => {
             downloadTable.classList.add('none');
             nilmTable.classList.remove('none');
+            nilmTableDesc.classList.remove('none');
+            
           }, 3000);
           break;
         case 2:
@@ -59,6 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
           // 替换内容
           setTimeout(() => {
             nilmTable.classList.add('none');
+            nilmTableDesc.classList.add('none');
             warningTable.classList.remove('none');
           }, 3000);
 
