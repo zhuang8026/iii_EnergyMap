@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function () {
           setTimeout(() => {
             tabContent.classList.remove('end');
             downloadTable.classList.remove('none');
-          }, 3000);
+          }, 500);
 
           break;
         case 1:
@@ -52,8 +52,7 @@ document.addEventListener('DOMContentLoaded', function () {
             downloadTable.classList.add('none');
             nilmTable.classList.remove('none');
             nilmTableDesc.classList.remove('none');
-            
-          }, 3000);
+          }, 500);
           break;
         case 2:
           // delete previous icon class
@@ -64,7 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
             nilmTable.classList.add('none');
             nilmTableDesc.classList.add('none');
             warningTable.classList.remove('none');
-          }, 3000);
+          }, 500);
 
           break;
         case 3:
@@ -75,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function () {
           setTimeout(() => {
             warningTable.classList.add('none');
             serveIMG.classList.remove('none');
-          }, 3000);
+          }, 500);
           break;
         default:
           break;
@@ -120,7 +119,8 @@ document.addEventListener('DOMContentLoaded', function () {
             var iconB = icons[index + 1].getBoundingClientRect();
             line.style.width = iconB.left - iconA.right + 'px';
             line.style.left = iconA.right + window.scrollX + 'px';
-            line.style.top = iconA.top + window.scrollY + iconA.height / 2 - 15 + 'px'; // Adjust for line height (30px / 2)
+            line.style.top =
+              iconA.top + window.scrollY + iconA.height / 2 - 15 + 'px'; // Adjust for line height (30px / 2)
             icons[index + 1].classList.remove('disable');
           }
 
@@ -132,8 +132,15 @@ document.addEventListener('DOMContentLoaded', function () {
             index - 1
           ].style.background = '#57b87b';
         }
-      }, 3000);
+      }, 500);
     });
+  });
+
+  // 自動執行每個圖標的點擊事件
+  icons.forEach((icon, index) => {
+    setTimeout(() => {
+      icon.click(); // 觸發每個圖標的點擊事件
+    }, 1000 * index); // 每隔一秒觸發一次
   });
 });
 
